@@ -1,0 +1,3158 @@
+Question : When is Andrew Garfield 's birthday ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	2
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+birthday	NN	O	nsubj	2
+?	.	O	.	-1
+
+
+
+Question : When was Andrew Garfield born ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	5
+was	VBD	O	auxpass	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubjpass	5
+born	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Do you know when Andrew Garfield 's birthday is ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+when	WRB	O	advmod	9
+Andrew	NNP	PERSON	nn	6
+Garfield	NNP	PERSON	poss	8
+'s	POS	O	possessive	6
+birthday	NN	O	nsubj	9
+is	VBZ	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : When did Andrew Garfield give birth ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	5
+did	VBD	O	aux	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubj	5
+give	VB	O	root	0
+birth	NN	O	dobj	5
+?	.	O	.	-1
+
+
+
+Question : Where was Andrew Garfield born ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+was	VBD	O	auxpass	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubjpass	5
+born	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Where is Andrew Garfield 's hometown ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+hometown	NN	O	nsubj	2
+?	.	O	.	-1
+
+
+
+Question : What is the city where Andrew Garfield born ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+city	NN	O	nsubj	1
+where	WRB	O	advmod	8
+Andrew	NNP	PERSON	nn	7
+Garfield	NNP	PERSON	nsubj	8
+born	VBN	O	rcmod	4
+?	.	O	.	-1
+
+
+
+Question : Do you know where Andrew Garfield was born ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+where	WRB	O	advmod	8
+Andrew	NNP	PERSON	nn	6
+Garfield	NNP	PERSON	nsubjpass	8
+was	VBD	O	auxpass	8
+born	VBN	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's ethnicity ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+ethnicity	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's ethnic origin ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	7
+'s	POS	O	possessive	4
+ethnic	JJ	O	amod	7
+origin	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's ethnic group ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	7
+'s	POS	O	possessive	4
+ethnic	JJ	O	amod	7
+group	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Do you know what Andrew Garfield 's ethnicity is ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+what	WP	O	dobj	9
+Andrew	NNP	PERSON	nn	6
+Garfield	NNP	PERSON	poss	8
+'s	POS	O	possessive	6
+ethnicity	NN	O	nsubj	9
+is	VBZ	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : Who is Andrew Garfield 's spouse ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+spouse	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Who is Andrew Garfield 's partner ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+partner	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Who have been going out with Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	4
+have	VBP	O	aux	4
+been	VBN	O	aux	4
+going	VBG	O	root	0
+out	RP	O	prt	4
+with	IN	O	prep	4
+Andrew	NNP	PERSON	nn	8
+Garfield	NNP	PERSON	prep_with	4
+?	.	O	.	-1
+
+
+
+Question : Who have been dating Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	4
+have	VBP	O	aux	4
+been	VBN	O	aux	4
+dating	VBG	O	root	0
+Andrew	NNP	PERSON	nn	6
+Garfield	NNP	PERSON	dobj	4
+?	.	O	.	-1
+
+
+
+Question : What gender is Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+gender	NN	O	dep	3
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's gender ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+gender	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Is Andrew Garfield male or female ? 
+
+WORD	POS	NER	Dependency	dep
+Is	VBZ	O	cop	4
+Andrew	NNP	PERSON	nn	3
+Garfield	NNP	PERSON	nsubj	4
+male	NN	O	root	0
+or	CC	O	cc	4
+female	NN	O	conj_or	4
+?	.	O	.	-1
+
+
+
+Question : What sex is Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+sex	NN	O	dep	3
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's profession ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+profession	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's job ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+job	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What does Andrew Garfield do for a living ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	dobj	5
+does	VBZ	O	aux	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubj	5
+do	VB	O	root	0
+for	IN	O	prep	5
+a	DT	O	det	8
+living	NN	O	prep_for	5
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's work ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+work	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's nationality ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+nationality	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's citizenship ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+citizenship	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What nationality is Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+nationality	NN	O	dep	3
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : What citizenship is Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+citizenship	NN	O	dep	3
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's religion ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+religion	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What religion Andrew Garfield has ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+religion	NN	O	dobj	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubj	5
+has	VBZ	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's religious faith ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	7
+'s	POS	O	possessive	4
+religious	JJ	O	amod	7
+faith	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What religion does Andrew Garfield belong to ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+religion	NN	O	prep_to	6
+does	VBZ	O	aux	6
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	6
+belong	VBP	O	root	0
+to	TO	O	prep	6
+?	.	O	.	-1
+
+
+
+Question : What is Andrew Garfield 's height ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	poss	6
+'s	POS	O	possessive	4
+height	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : How tall is Andrew Garfield ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+tall	JJ	O	dep	3
+is	VBZ	O	root	0
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : Do you know what Andrew Garfield 's height is ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+what	WP	O	dobj	9
+Andrew	NNP	PERSON	nn	6
+Garfield	NNP	PERSON	poss	8
+'s	POS	O	possessive	6
+height	NN	O	nsubj	9
+is	VBZ	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : Do you know how tall Andrew Garfield is ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+how	WRB	O	advmod	5
+tall	JJ	O	dep	8
+Andrew	NNP	PERSON	nn	7
+Garfield	NNP	PERSON	nsubj	8
+is	VBZ	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : Where did Andrew Garfield live in his past life ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+did	VBD	O	aux	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubj	5
+live	VB	O	root	0
+in	IN	O	prep	5
+his	PRP$	O	poss	9
+past	JJ	DATE	amod	9
+life	NN	O	prep_in	5
+?	.	O	.	-1
+
+
+
+Question : Where was Andrew Garfield in a past life ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+was	VBD	O	root	0
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubj	2
+in	IN	O	prep	4
+a	DT	O	det	8
+past	JJ	DATE	amod	8
+life	NN	O	prep_in	4
+?	.	O	.	-1
+
+
+
+Question : What city did Andrew Garfield live ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+city	NN	O	dobj	6
+did	VBD	O	aux	6
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	6
+live	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What city did Andrew Garfield grow up in ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+city	NN	O	prep_in	6
+did	VBD	O	aux	6
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	6
+grow	VB	O	root	0
+up	RP	O	prt	6
+in	IN	O	prep	6
+?	.	O	.	-1
+
+
+
+Question : What school did Andrew Garfield go to ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+school	NN	O	prep_to	6
+did	VBD	O	aux	6
+Andrew	NNP	PERSON	nn	5
+Garfield	NNP	PERSON	nsubj	6
+go	VB	O	root	0
+to	TO	O	prep	6
+?	.	O	.	-1
+
+
+
+Question : What school did Andrew Garfield graduate from ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+school	NN	O	nsubj	3
+did	VBD	O	root	0
+Andrew	NNP	PERSON	nn	6
+Garfield	NNP	PERSON	nn	6
+graduate	NN	O	dobj	3
+from	IN	O	prep	3
+?	.	O	.	-1
+
+
+
+Question : Where did Andrew Garfield get an education ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+did	VBD	O	aux	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubj	5
+get	VB	O	root	0
+an	DT	O	det	7
+education	NN	O	dobj	5
+?	.	O	.	-1
+
+
+
+Question : Where was Andrew Garfield educated in ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+was	VBD	O	auxpass	5
+Andrew	NNP	PERSON	nn	4
+Garfield	NNP	PERSON	nsubjpass	5
+educated	VBN	O	root	0
+in	IN	O	prep	5
+?	.	O	.	-1
+
+
+
+Question : Where is Laos capital located ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+is	VBZ	O	auxpass	5
+Laos	NNP	LOCATION	nn	4
+capital	NN	O	nsubjpass	5
+located	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What city is Laos capital located ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+city	NN	O	dobj	6
+is	VBZ	O	auxpass	6
+Laos	NNP	LOCATION	nn	5
+capital	NN	O	nsubjpass	6
+located	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is the capital of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+capital	NN	O	nsubj	1
+of	IN	O	prep	4
+Laos	NNP	LOCATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Do you know the capital of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+the	DT	O	det	5
+capital	NN	O	dobj	3
+of	IN	O	prep	5
+Laos	NNP	LOCATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What is Laos 's official language ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Laos	NNP	LOCATION	poss	6
+'s	POS	O	possessive	3
+official	JJ	O	amod	6
+language	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What language is the official of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+language	NN	O	dep	3
+is	VBZ	O	root	0
+the	DT	O	det	5
+official	NN	O	nsubj	3
+of	IN	O	prep	5
+Laos	NNP	LOCATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What official language is used in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	3
+official	JJ	O	amod	3
+language	NN	O	nsubjpass	5
+is	VBZ	O	auxpass	5
+used	VBN	O	root	0
+in	IN	O	prep	5
+Laos	NNP	LOCATION	prep_in	5
+?	.	O	.	-1
+
+
+
+Question : Do you know the official language of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+the	DT	O	det	6
+official	JJ	O	amod	6
+language	NN	O	dobj	3
+of	IN	O	prep	6
+Laos	NNP	LOCATION	prep_of	6
+?	.	O	.	-1
+
+
+
+Question : Which currency is used in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+currency	NN	O	nsubjpass	4
+is	VBZ	O	auxpass	4
+used	VBN	O	root	0
+in	IN	O	prep	4
+Laos	NNP	LOCATION	prep_in	4
+?	.	O	.	-1
+
+
+
+Question : What kind of currency is used in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+kind	NN	O	nsubjpass	6
+of	IN	O	prep	2
+currency	NN	O	prep_of	2
+is	VBZ	O	auxpass	6
+used	VBN	O	root	0
+in	IN	O	prep	6
+Laos	NNP	LOCATION	prep_in	6
+?	.	O	.	-1
+
+
+
+Question : What currency does Laos use ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+currency	NN	O	dobj	5
+does	VBZ	O	aux	5
+Laos	NNP	LOCATION	nsubj	5
+use	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What currency do they use in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+currency	NN	O	dobj	5
+do	VBP	O	aux	5
+they	PRP	O	nsubj	5
+use	VB	O	root	0
+in	IN	O	prep	5
+Laos	NNP	LOCATION	prep_in	5
+?	.	O	.	-1
+
+
+
+Question : What languages are spoken in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+languages	NNS	O	nsubjpass	4
+are	VBP	O	auxpass	4
+spoken	VBN	O	root	0
+in	IN	O	prep	4
+Laos	NNP	LOCATION	prep_in	4
+?	.	O	.	-1
+
+
+
+Question : What languages does Laos speak ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+languages	NNS	O	dobj	5
+does	VBZ	O	aux	5
+Laos	NNP	LOCATION	nsubj	5
+speak	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What languages are used in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+languages	NNS	O	nsubjpass	4
+are	VBP	O	auxpass	4
+used	VBN	O	root	0
+in	IN	O	prep	4
+Laos	NNP	LOCATION	prep_in	4
+?	.	O	.	-1
+
+
+
+Question : Which languages are used in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+languages	NNS	O	nsubjpass	4
+are	VBP	O	auxpass	4
+used	VBN	O	root	0
+in	IN	O	prep	4
+Laos	NNP	LOCATION	prep_in	4
+?	.	O	.	-1
+
+
+
+Question : What is Laos 's Calling code ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	nsubj	6
+is	VBZ	O	cop	6
+Laos	NNP	LOCATION	poss	6
+'s	POS	O	possessive	3
+Calling	VBG	O	amod	6
+code	NN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is Laos 's Telephone country code ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Laos	NNP	LOCATION	poss	7
+'s	POS	O	possessive	3
+Telephone	NNP	O	nn	7
+country	NN	O	nn	7
+code	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : How to call a Laos ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	dep	3
+to	TO	O	aux	3
+call	VB	O	root	0
+a	DT	O	det	5
+Laos	NNP	LOCATION	dobj	3
+?	.	O	.	-1
+
+
+
+Question : What is phone code of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+phone	NN	O	nn	4
+code	NN	O	nsubj	1
+of	IN	O	prep	4
+Laos	NNP	LOCATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Where is Laos located ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	4
+is	VBZ	O	auxpass	4
+Laos	NNP	LOCATION	nsubjpass	4
+located	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is Laos 's geolocation ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Laos	NNP	LOCATION	poss	5
+'s	POS	O	possessive	3
+geolocation	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What are latitude and longitude of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+latitude	NN	O	nsubj	1
+and	CC	O	cc	3
+longitude	NN	O	conj_and	3
+of	IN	O	prep	3
+Laos	NNP	LOCATION	prep_of	3
+?	.	O	.	-1
+
+
+
+Question : Do you know where Laos is ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+where	WRB	O	advmod	6
+Laos	NNP	LOCATION	nsubj	6
+is	VBZ	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : What is the area of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+area	NN	O	nsubj	1
+of	IN	O	prep	4
+Laos	NNP	LOCATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : How large is Laos ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+large	JJ	O	dep	3
+is	VBZ	O	root	0
+Laos	NNP	LOCATION	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : What is the Laos 's area ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+Laos	NNP	LOCATION	poss	6
+'s	POS	O	possessive	4
+area	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Do you know the area of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+the	DT	O	det	5
+area	NN	O	dobj	3
+of	IN	O	prep	5
+Laos	NNP	LOCATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What continent is Laos contained by ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+continent	NN	O	agent	5
+is	VBZ	O	auxpass	5
+Laos	NNP	LOCATION	nsubjpass	5
+contained	VBN	O	root	0
+by	IN	O	prep	5
+?	.	O	.	-1
+
+
+
+Question : Which continent is Laos located ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+continent	NN	O	dobj	5
+is	VBZ	O	auxpass	5
+Laos	NNP	LOCATION	nsubjpass	5
+located	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Where is Laos contained by ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	4
+is	VBZ	O	auxpass	4
+Laos	NNP	LOCATION	nsubjpass	4
+contained	VBN	O	root	0
+by	IN	O	prep	4
+?	.	O	.	-1
+
+
+
+Question : What continent is Laos in ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+continent	NN	O	nsubj	3
+is	VBZ	O	root	0
+Laos	NNP	LOCATION	nsubj	3
+in	IN	O	prep	3
+?	.	O	.	-1
+
+
+
+Question : What are Laos 's religions ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+Laos	NNP	LOCATION	poss	5
+'s	POS	O	possessive	3
+religions	NNS	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What religions Laos are ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+religions	NNS	O	nsubj	4
+Laos	NNP	LOCATION	appos	2
+are	VBP	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What are Laos 's religious faiths ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+Laos	NNP	LOCATION	poss	6
+'s	POS	O	possessive	3
+religious	JJ	O	amod	6
+faiths	NNS	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What religions does Laos belong to ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+religions	NNS	O	prep_to	5
+does	VBZ	O	aux	5
+Laos	NNP	LOCATION	nsubj	5
+belong	VB	O	root	0
+to	TO	O	prep	5
+?	.	O	.	-1
+
+
+
+Question : What are Laos 's major exports ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+Laos	NNP	LOCATION	poss	6
+'s	POS	O	possessive	3
+major	JJ	O	amod	6
+exports	NNS	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What does Laos export mainly ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	nsubj	2
+does	VBZ	O	root	0
+Laos	NNP	LOCATION	nn	4
+export	NN	O	dobj	2
+mainly	RB	O	advmod	2
+?	.	O	.	-1
+
+
+
+Question : What are Laos 's main products which are exported ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+Laos	NNP	LOCATION	poss	6
+'s	POS	O	possessive	3
+main	JJ	O	amod	6
+products	NNS	O	nsubj	1
+which	WDT	O	nsubjpass	9
+are	VBP	O	auxpass	9
+exported	VBN	O	rcmod	6
+?	.	O	.	-1
+
+
+
+Question : What products are mainly exported in Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+products	NNS	O	nsubjpass	5
+are	VBP	O	auxpass	5
+mainly	RB	O	advmod	5
+exported	VBN	O	root	0
+in	IN	O	prep	5
+Laos	NNP	LOCATION	prep_in	5
+?	.	O	.	-1
+
+
+
+Question : When was Laos founded ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	4
+was	VBD	O	auxpass	4
+Laos	NNP	LOCATION	nsubjpass	4
+founded	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What date is Laos founded ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+date	NN	O	dobj	5
+is	VBZ	O	auxpass	5
+Laos	NNP	LOCATION	nsubjpass	5
+founded	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is the date of foundation of Laos ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+date	NN	O	nsubj	1
+of	IN	O	prep	4
+foundation	NN	O	prep_of	4
+of	IN	O	prep	6
+Laos	NNP	LOCATION	prep_of	6
+?	.	O	.	-1
+
+
+
+Question : When was Laos established ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	4
+was	VBD	O	auxpass	4
+Laos	NNP	LOCATION	nsubjpass	4
+established	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : When did the movie `` Magic in the moonlight '' release ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	2
+did	VBD	O	root	0
+the	DT	O	det	4
+movie	NN	O	dep	6
+``	``	O	.	-1
+Magic	NNP	O	dep	2
+in	IN	O	prep	6
+the	DT	O	det	11
+moonlight	NN	O	nn	11
+''	''	O	.	-1
+release	NN	O	prep_in	6
+?	.	O	.	-1
+
+
+
+Question : When is the release date of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	2
+is	VBZ	O	root	0
+the	DT	O	det	5
+release	NN	O	nn	5
+date	NN	O	nsubj	2
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : When did the movie `` Magic in the moonlight '' come out ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	11
+did	VBD	O	aux	11
+the	DT	O	det	4
+movie	NN	O	nsubj	11
+``	``	O	.	-1
+Magic	NNP	O	dep	4
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+come	VBN	O	root	0
+out	RP	O	prt	11
+?	.	O	.	-1
+
+
+
+Question : When did the movie `` Magic in the moonlight '' start ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	11
+did	VBD	O	aux	11
+the	DT	O	det	4
+movie	NN	O	nsubj	11
+``	``	O	.	-1
+Magic	NNP	O	dep	4
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+start	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Who is the director of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+director	NN	O	nsubj	1
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who directed `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+directed	VBD	O	root	0
+``	``	O	.	-1
+Magic	NNP	O	dobj	2
+in	IN	O	prep	4
+the	DT	O	det	7
+moonlight	NN	O	prep_in	4
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Do you know who directed `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+who	WP	O	nsubj	5
+directed	VBD	O	dep	3
+``	``	O	.	-1
+Magic	NNP	O	dobj	5
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who made the movie `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+made	VBD	O	root	0
+the	DT	O	det	4
+movie	NN	O	dep	6
+``	``	O	.	-1
+Magic	NNP	O	dep	2
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who acted in `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+acted	VBD	O	root	0
+in	IN	O	prep	2
+``	``	O	.	-1
+Magic	NNP	O	prep_in	2
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	prep_in	5
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who performed in `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+performed	VBN	O	root	0
+in	IN	O	prep	2
+``	``	O	.	-1
+Magic	NNP	O	prep_in	2
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	prep_in	5
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who played a role in `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+played	VBD	O	root	0
+a	DT	O	det	4
+role	NN	O	dobj	2
+in	IN	O	prep	2
+``	``	O	.	-1
+Magic	NNP	O	prep_in	2
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who appeared on `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+appeared	VBD	O	root	0
+on	IN	O	prep	2
+``	``	O	.	-1
+Magic	NNP	O	prep_on	2
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	prep_in	5
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : What are genres of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+genres	NNS	O	nsubj	1
+of	IN	O	prep	3
+``	``	O	.	-1
+Magic	NNP	O	prep_of	3
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : What genres do `` Magic in the moonlight '' fall into ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+genres	NNS	O	prep_into	10
+do	VBP	O	aux	10
+``	``	O	.	-1
+Magic	NNP	O	nsubj	10
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	prep_in	5
+''	''	O	.	-1
+fall	VB	O	root	0
+into	IN	O	prep	10
+?	.	O	.	-1
+
+
+
+Question : What kind of movie is `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+kind	NN	O	dep	5
+of	IN	O	prep	2
+movie	NN	O	prep_of	2
+is	VBZ	O	root	0
+``	``	O	.	-1
+Magic	NNP	O	dep	5
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : How can we categorize `` Magic in the moonlight '' by genres ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	4
+can	MD	O	aux	4
+we	PRP	O	nsubj	4
+categorize	VB	O	root	0
+``	``	O	.	-1
+Magic	NNP	O	dobj	4
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+by	IN	O	prep	4
+genres	NNS	O	prep_by	4
+?	.	O	.	-1
+
+
+
+Question : Who is an executive producer of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+an	DT	O	det	5
+executive	NN	O	nn	5
+producer	NN	O	nsubj	1
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who executive produced `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	dep	3
+executive	NN	O	nsubj	3
+produced	VBD	O	root	0
+``	``	O	.	-1
+Magic	NNP	O	dobj	3
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	prep_in	5
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Do you know an executive producer of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VBP	O	aux	3
+you	PRP	O	nsubj	3
+know	VB	O	root	0
+an	DT	O	det	6
+executive	NN	O	nn	6
+producer	NN	O	dobj	3
+of	IN	O	prep	6
+``	``	O	.	-1
+Magic	NNP	O	prep_of	6
+in	IN	O	prep	9
+the	DT	O	det	12
+moonlight	NN	O	prep_in	9
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Do you know who executive produced `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+who	WP	O	dobj	6
+executive	NN	O	nsubj	6
+produced	VBD	O	ccomp	3
+``	``	O	.	-1
+Magic	NNP	O	dobj	6
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who produced `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+produced	VBD	O	root	0
+``	``	O	.	-1
+Magic	NNP	O	dobj	2
+in	IN	O	prep	4
+the	DT	O	det	7
+moonlight	NN	O	prep_in	4
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who are the producers of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+are	VBP	O	cop	1
+the	DT	O	det	4
+producers	NNS	O	nsubj	1
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who are the people that produced `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+are	VBP	O	cop	1
+the	DT	O	det	4
+people	NNS	O	nsubj	1
+that	WDT	O	nsubj	6
+produced	VBD	O	rcmod	4
+``	``	O	.	-1
+Magic	NNP	O	dobj	6
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who are the `` Magic in the moonlight '' 's producers ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+are	VBP	O	cop	1
+the	DT	O	det	5
+``	``	O	.	-1
+Magic	NNP	O	nsubj	1
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	poss	11
+''	''	O	.	-1
+'s	POS	O	possessive	8
+producers	NNS	O	prep_in	5
+?	.	O	.	-1
+
+
+
+Question : Who wrote the screenplay of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+wrote	VBD	O	root	0
+the	DT	O	det	4
+screenplay	NN	O	dobj	2
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who wrote the script of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+wrote	VBD	O	root	0
+the	DT	O	det	4
+script	NN	O	dobj	2
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who wrote the `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+wrote	VBD	O	root	0
+the	DT	O	det	5
+``	``	O	.	-1
+Magic	NNP	O	dobj	2
+in	IN	O	prep	5
+the	DT	O	det	8
+moonlight	NN	O	prep_in	5
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : who is the screen writer of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+screen	NN	O	nn	5
+writer	NN	O	nsubj	1
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who designed costume of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+designed	VBD	O	root	0
+costume	NN	O	dobj	2
+of	IN	O	prep	3
+``	``	O	.	-1
+Magic	NNP	O	prep_of	3
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who is the costume designer of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+costume	NN	O	nn	5
+designer	NN	O	nsubj	1
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who designed outfit of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+designed	VBD	O	root	0
+outfit	NN	O	dobj	2
+of	IN	O	prep	3
+``	``	O	.	-1
+Magic	NNP	O	prep_of	3
+in	IN	O	prep	6
+the	DT	O	det	9
+moonlight	NN	O	prep_in	6
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Do you know who the costume designer of `` Magic in the moonlight '' is ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+who	WP	O	dobj	15
+the	DT	O	det	7
+costume	NN	O	nn	7
+designer	NN	O	nsubj	15
+of	IN	O	prep	7
+``	``	O	.	-1
+Magic	NNP	O	prep_of	7
+in	IN	O	prep	10
+the	DT	O	det	13
+moonlight	NN	O	prep_in	10
+''	''	O	.	-1
+is	VBZ	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : What is the rating of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+rating	NN	O	nsubj	1
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : How does the rating of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+does	VBZ	O	root	0
+the	DT	O	det	4
+rating	NN	O	nsubj	2
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : What is `` Magic in the moonlight '' 's rating ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+``	``	O	.	-1
+Magic	NNP	O	poss	10
+in	IN	O	prep	4
+the	DT	O	det	7
+moonlight	NN	O	prep_in	4
+''	''	O	.	-1
+'s	POS	O	possessive	4
+rating	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Do you know the rating of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+the	DT	O	det	5
+rating	NN	O	dobj	3
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Which country is origin of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+country	NN	O	dep	3
+is	VBZ	O	root	0
+origin	NN	O	nsubj	3
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Where is `` Magic in the moonlight '' 's Country of origin ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+``	``	O	.	-1
+Magic	NNP	O	poss	10
+in	IN	O	prep	4
+the	DT	O	det	7
+moonlight	NN	O	prep_in	4
+''	''	O	.	-1
+'s	POS	O	possessive	4
+Country	NN	O	nsubj	2
+of	IN	O	prep	10
+origin	NN	O	prep_of	10
+?	.	O	.	-1
+
+
+
+Question : What is the country where `` Magic in the moonlight '' origins ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	nsubj	4
+is	VBZ	O	cop	4
+the	DT	O	det	4
+country	NN	O	root	0
+where	WRB	O	advmod	7
+``	``	O	.	-1
+Magic	NNP	O	rcmod	4
+in	IN	O	dep	7
+the	DT	O	det	12
+moonlight	NN	O	nn	12
+''	''	O	.	-1
+origins	NNS	O	pobj	8
+?	.	O	.	-1
+
+
+
+Question : What is Country of origin of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Country	NN	O	nsubj	1
+of	IN	O	prep	3
+origin	NN	O	prep_of	3
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : What is the trailer of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+trailer	NN	O	nsubj	1
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	10
+moonlight	NN	O	prep_in	7
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : What is `` Magic in the moonlight '' 's trailer ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+``	``	O	.	-1
+Magic	NNP	O	poss	10
+in	IN	O	prep	4
+the	DT	O	det	7
+moonlight	NN	O	prep_in	4
+''	''	O	.	-1
+'s	POS	O	possessive	4
+trailer	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is the teaser movie of `` Magic in the moonlight '' ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+teaser	NN	O	nn	5
+movie	NN	O	nsubj	1
+of	IN	O	prep	5
+``	``	O	.	-1
+Magic	NNP	O	prep_of	5
+in	IN	O	prep	8
+the	DT	O	det	11
+moonlight	NN	O	prep_in	8
+''	''	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : What is the url of `` Magic in the moonlight '' trailer ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+url	NN	O	nsubj	1
+of	IN	O	prep	4
+``	``	O	.	-1
+Magic	NNP	O	prep_of	4
+in	IN	O	prep	7
+the	DT	O	det	12
+moonlight	NN	O	nn	12
+''	''	O	.	-1
+trailer	NN	O	prep_in	7
+?	.	O	.	-1
+
+
+
+Question : What is official website of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+official	JJ	O	amod	4
+website	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : What is official URL of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+official	JJ	O	amod	4
+URL	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Where is official website of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+official	JJ	O	amod	4
+website	NN	O	nsubj	2
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : What is the Yonsei University 's website ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+Yonsei	NNP	ORGANIZATION	nn	5
+University	NNP	ORGANIZATION	poss	7
+'s	POS	O	possessive	5
+website	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is school type of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+school	NN	O	nn	4
+type	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Which is school type of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	dep	2
+is	VBZ	O	root	0
+school	NN	O	nn	4
+type	NN	O	nsubj	2
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Which school type of Yonsei University is ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	3
+school	NN	O	nn	3
+type	NN	O	nsubj	7
+of	IN	O	prep	3
+Yonsei	NNP	ORGANIZATION	nn	6
+University	NNP	ORGANIZATION	prep_of	3
+is	VBZ	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Do you know school type of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+school	NN	O	nn	5
+type	NN	O	dobj	3
+of	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What is the phone number of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+phone	NN	O	nn	5
+number	NN	O	nsubj	1
+of	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What is Yonsei University 's phone number ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Yonsei	NNP	ORGANIZATION	nn	4
+University	NNP	ORGANIZATION	poss	7
+'s	POS	O	possessive	4
+phone	NN	O	nn	7
+number	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is the phone number for Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+phone	NN	O	nn	5
+number	NN	O	nsubj	1
+for	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_for	5
+?	.	O	.	-1
+
+
+
+Question : Do you have Yonsei University 's phone number ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+have	VBP	O	ccomp	1
+Yonsei	NNP	ORGANIZATION	nn	5
+University	NNP	ORGANIZATION	poss	8
+'s	POS	O	possessive	5
+phone	NN	O	nn	8
+number	NN	O	dobj	3
+?	.	O	.	-1
+
+
+
+Question : How many total enrollments does Yonsei University have ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+many	JJ	O	amod	4
+total	JJ	O	amod	4
+enrollments	NNS	O	dobj	8
+does	VBZ	O	aux	8
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	nsubj	8
+have	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : How many people enroll Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+many	JJ	O	amod	3
+people	NNS	O	nsubj	4
+enroll	VBP	O	root	0
+Yonsei	NNP	ORGANIZATION	nn	6
+University	NNP	ORGANIZATION	dobj	4
+?	.	O	.	-1
+
+
+
+Question : What is the present enrollment of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	5
+present	JJ	DATE	amod	5
+enrollment	NN	O	nsubj	1
+of	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : Do you know total enrollment of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+total	JJ	O	amod	5
+enrollment	NN	O	dobj	3
+of	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What is the color of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+color	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : What color represents Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+color	NN	O	nsubj	3
+represents	VBZ	O	root	0
+Yonsei	NNP	ORGANIZATION	nn	5
+University	NNP	ORGANIZATION	dobj	3
+?	.	O	.	-1
+
+
+
+Question : What is the color that represents Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+color	NN	O	nsubj	1
+that	WDT	O	nsubj	6
+represents	VBZ	O	rcmod	4
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	dobj	6
+?	.	O	.	-1
+
+
+
+Question : What is color for Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+color	NN	O	nsubj	1
+for	IN	O	prep	3
+Yonsei	NNP	ORGANIZATION	nn	6
+University	NNP	ORGANIZATION	prep_for	3
+?	.	O	.	-1
+
+
+
+Question : What is mascot of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+mascot	NN	O	nsubj	1
+of	IN	O	prep	3
+Yonsei	NNP	ORGANIZATION	nn	6
+University	NNP	ORGANIZATION	prep_of	3
+?	.	O	.	-1
+
+
+
+Question : What is Yonsei University 's mascot ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+Yonsei	NNP	ORGANIZATION	nn	4
+University	NNP	ORGANIZATION	poss	6
+'s	POS	O	possessive	4
+mascot	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Which mascot does Yonsei University uses ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+mascot	NN	O	dobj	6
+does	VBZ	O	aux	6
+Yonsei	NNP	ORGANIZATION	nn	5
+University	NNP	ORGANIZATION	nsubj	6
+uses	VBZ	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Do you know the mascot for Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+the	DT	O	det	5
+mascot	NN	O	dobj	3
+for	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_for	5
+?	.	O	.	-1
+
+
+
+Question : Who founded Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+founded	VBD	O	root	0
+Yonsei	NNP	ORGANIZATION	nn	4
+University	NNP	ORGANIZATION	dobj	2
+?	.	O	.	-1
+
+
+
+Question : Who are the Founders of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+are	VBP	O	cop	1
+the	DT	O	det	4
+Founders	NNS	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Who is the person that founded Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+person	NN	O	nsubj	1
+that	WDT	O	nsubj	6
+founded	VBD	O	rcmod	4
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	dobj	6
+?	.	O	.	-1
+
+
+
+Question : Do you know who founded Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+who	WP	O	nsubj	5
+founded	VBD	O	ccomp	3
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	dobj	5
+?	.	O	.	-1
+
+
+
+Question : Who is the leadership of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+leadership	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Who is the president of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+president	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Who is in charge of Yonsei University 's President ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+is	VBZ	O	root	0
+in	IN	O	prep	2
+charge	NN	O	prep_in	2
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	poss	9
+'s	POS	O	possessive	7
+President	NNP	O	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Who is in charge of Yonsei University 's leadership ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+is	VBZ	O	root	0
+in	IN	O	prep	2
+charge	NN	O	prep_in	2
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	poss	9
+'s	POS	O	possessive	7
+leadership	NN	O	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : How much is the tuition of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+much	JJ	O	dep	3
+is	VBZ	O	root	0
+the	DT	O	det	5
+tuition	NN	O	nsubj	3
+of	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What is the tuition of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+tuition	NN	O	nsubj	1
+of	IN	O	prep	4
+Yonsei	NNP	ORGANIZATION	nn	7
+University	NNP	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : How much is Yonsei University 's tuition fee ? 
+
+WORD	POS	NER	Dependency	dep
+How	WRB	O	advmod	2
+much	JJ	O	dep	3
+is	VBZ	O	root	0
+Yonsei	NNP	ORGANIZATION	nn	5
+University	NNP	ORGANIZATION	poss	8
+'s	POS	O	possessive	5
+tuition	NN	O	nn	8
+fee	NN	O	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : Do you know domestic tuition of Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+domestic	JJ	O	amod	5
+tuition	NN	O	dobj	3
+of	IN	O	prep	5
+Yonsei	NNP	ORGANIZATION	nn	8
+University	NNP	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : Where is Yonsei University Contained by ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+is	VBZ	O	auxpass	5
+Yonsei	NNP	ORGANIZATION	nn	4
+University	NNP	ORGANIZATION	nsubjpass	5
+Contained	VBN	O	root	0
+by	IN	O	prep	5
+?	.	O	.	-1
+
+
+
+Question : Where is Yonsei University ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+Yonsei	NNP	ORGANIZATION	nn	4
+University	NNP	ORGANIZATION	nsubj	2
+?	.	O	.	-1
+
+
+
+Question : Where is Yonsei University located ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	5
+is	VBZ	O	cop	5
+Yonsei	NNP	ORGANIZATION	nn	4
+University	NNP	ORGANIZATION	nsubj	5
+located	JJ	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Which country is Yonsei University Contained by ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+country	NN	O	agent	6
+is	VBZ	O	auxpass	6
+Yonsei	NNP	ORGANIZATION	nn	5
+University	NNP	ORGANIZATION	nsubjpass	6
+Contained	VBN	O	root	0
+by	IN	O	prep	6
+?	.	O	.	-1
+
+
+
+Question : What is the movie about New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+movie	NN	O	nsubj	1
+about	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_about	4
+?	.	O	.	-1
+
+
+
+Question : What is the film on New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+film	NN	O	nsubj	1
+on	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_on	4
+?	.	O	.	-1
+
+
+
+Question : Which movie is about New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+movie	NN	O	nsubj	3
+is	VBZ	O	root	0
+about	IN	O	prep	3
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	prep_about	3
+?	.	O	.	-1
+
+
+
+Question : What movie does New York Yankees appear ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+movie	NN	O	dobj	7
+does	VBZ	O	aux	7
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	nsubj	7
+appear	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Who is supplier of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+supplier	NN	O	nsubj	1
+of	IN	O	prep	3
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	prep_of	3
+?	.	O	.	-1
+
+
+
+Question : Who supplies New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+supplies	VBZ	O	root	0
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	dobj	2
+?	.	O	.	-1
+
+
+
+Question : Which corporation is supplier of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+corporation	NN	O	dep	3
+is	VBZ	O	root	0
+supplier	NN	O	nsubj	3
+of	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Who funded New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+funded	VBD	O	root	0
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	dobj	2
+?	.	O	.	-1
+
+
+
+Question : What kind of sport does New York Yankees play ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+kind	NN	O	dobj	9
+of	IN	O	prep	2
+sport	NN	O	prep_of	2
+does	VBZ	O	aux	9
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	nsubj	9
+play	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is the sport that New York Yankees plays ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+sport	NN	O	nsubj	1
+that	IN	O	mark	9
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	nsubj	9
+plays	VBZ	O	dep	4
+?	.	O	.	-1
+
+
+
+Question : Which sport does New York Yankees play ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+sport	NN	O	dobj	7
+does	VBZ	O	aux	7
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	nsubj	7
+play	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Which sport is New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+sport	NN	O	dep	3
+is	VBZ	O	root	0
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	nsubj	3
+?	.	O	.	-1
+
+
+
+Question : Where is the Sports Team location of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+the	DT	O	det	6
+Sports	NNP	O	nn	6
+Team	NNP	O	nn	6
+location	NN	O	nsubj	2
+of	IN	O	prep	6
+New	NNP	ORGANIZATION	nn	10
+York	NNP	ORGANIZATION	nn	10
+Yankees	NNPS	ORGANIZATION	prep_of	6
+?	.	O	.	-1
+
+
+
+Question : Where is New York Yankees ' location ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	poss	7
+'	POS	O	.	-1
+location	NN	O	nsubj	2
+?	.	O	.	-1
+
+
+
+Question : Where is New York Yankees located ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	6
+is	VBZ	O	cop	6
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	nsubj	6
+located	JJ	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Do you know where the New York Yankees is located ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+where	WRB	O	advmod	10
+the	DT	O	det	8
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	nsubjpass	10
+is	VBZ	O	auxpass	10
+located	VBN	O	ccomp	3
+?	.	O	.	-1
+
+
+
+Question : When was New York Yankees founded ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	6
+was	VBD	O	auxpass	6
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	nsubjpass	6
+founded	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What year is New York Yankees founded ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+year	NN	DURATION	tmod	7
+is	VBZ	O	auxpass	7
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	nsubjpass	7
+founded	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What is the year of foundation of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	DATE	det	4
+year	NN	DATE	nsubj	1
+of	IN	O	prep	4
+foundation	NN	O	prep_of	4
+of	IN	O	prep	6
+New	NNP	ORGANIZATION	nn	10
+York	NNP	ORGANIZATION	nn	10
+Yankees	NNPS	ORGANIZATION	prep_of	6
+?	.	O	.	-1
+
+
+
+Question : When was New York Yankees established ? 
+
+WORD	POS	NER	Dependency	dep
+When	WRB	O	advmod	6
+was	VBD	O	auxpass	6
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	nsubjpass	6
+established	VBN	O	root	0
+?	.	O	.	-1
+
+
+
+Question : What are the colors of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+are	VBP	O	cop	1
+the	DT	O	det	4
+colors	NNS	O	nsubj	1
+of	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : What color represents New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WDT	O	det	2
+color	NN	O	nsubj	3
+represents	VBZ	O	root	0
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	dobj	3
+?	.	O	.	-1
+
+
+
+Question : What is the color that represents New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+color	NN	O	nsubj	1
+that	WDT	O	nsubj	6
+represents	VBZ	O	rcmod	4
+New	NNP	ORGANIZATION	nn	9
+York	NNP	ORGANIZATION	nn	9
+Yankees	NNPS	ORGANIZATION	dobj	6
+?	.	O	.	-1
+
+
+
+Question : What is the color for New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+color	NN	O	nsubj	1
+for	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_for	4
+?	.	O	.	-1
+
+
+
+Question : What is stadium of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+stadium	NN	O	nsubj	1
+of	IN	O	prep	3
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	prep_of	3
+?	.	O	.	-1
+
+
+
+Question : What is arena of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+arena	NN	O	nsubj	1
+of	IN	O	prep	3
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	prep_of	3
+?	.	O	.	-1
+
+
+
+Question : What is New York Yankees ' stadium ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	poss	7
+'	POS	O	.	-1
+stadium	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : Which stadium is belong to New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+stadium	NN	O	nsubj	4
+is	VBZ	O	aux	4
+belong	VB	O	root	0
+to	TO	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_to	4
+?	.	O	.	-1
+
+
+
+Question : Which teams does the New York Yankees own ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+teams	NNS	O	dobj	8
+does	VBZ	O	aux	8
+the	DT	O	det	5
+New	NNP	ORGANIZATION	nsubj	8
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	dep	5
+own	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Which teams belong to the New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+teams	NNS	O	nsubj	3
+belong	VBP	O	root	0
+to	TO	O	prep	3
+the	DT	O	det	8
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_to	3
+?	.	O	.	-1
+
+
+
+Question : Which teams are owned by the New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+teams	NNS	O	nsubjpass	4
+are	VBP	O	auxpass	4
+owned	VBN	O	root	0
+by	IN	O	prep	4
+the	DT	O	det	9
+New	NNP	ORGANIZATION	nn	9
+York	NNP	ORGANIZATION	nn	9
+Yankees	NNPS	ORGANIZATION	agent	4
+?	.	O	.	-1
+
+
+
+Question : Which teams does the New York Yankees possess ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+teams	NNS	O	dobj	8
+does	VBZ	O	aux	8
+the	DT	O	det	5
+New	NNP	ORGANIZATION	nsubj	8
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	dep	5
+possess	VB	O	root	0
+?	.	O	.	-1
+
+
+
+Question : Which league does New York Yankees belong to ? 
+
+WORD	POS	NER	Dependency	dep
+Which	WDT	O	det	2
+league	NN	O	prep_to	7
+does	VBZ	O	aux	7
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	nsubj	7
+belong	VBP	O	root	0
+to	TO	O	prep	7
+?	.	O	.	-1
+
+
+
+Question : What is New York Yankees ' league ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	poss	7
+'	POS	O	.	-1
+league	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+
+Question : What is the league New York Yankees belongs to ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+league	NN	O	nsubj	1
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	nsubj	8
+belongs	VBZ	O	rcmod	4
+to	TO	O	prep	8
+?	.	O	.	-1
+
+
+
+Question : What is the league New York Yankees in ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	pobj	8
+is	VBZ	O	cop	1
+the	DT	O	det	4
+league	NN	O	nsubj	1
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	dep	4
+in	IN	O	.	-1
+?	.	O	.	-1
+
+
+
+Question : Who owns New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	nsubj	2
+owns	VBZ	O	root	0
+New	NNP	ORGANIZATION	nn	5
+York	NNP	ORGANIZATION	nn	5
+Yankees	NNPS	ORGANIZATION	dobj	2
+?	.	O	.	-1
+
+
+
+Question : Who is the owner of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+owner	NN	O	nsubj	1
+of	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Who is the possessor of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Who	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	4
+possessor	NN	O	nsubj	1
+of	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Do you know the owner of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Do	VB	O	root	0
+you	PRP	O	nsubj	3
+know	VB	O	ccomp	1
+the	DT	O	det	5
+owner	NN	O	dobj	3
+of	IN	O	prep	5
+New	NNP	ORGANIZATION	nn	9
+York	NNP	ORGANIZATION	nn	9
+Yankees	NNPS	ORGANIZATION	prep_of	5
+?	.	O	.	-1
+
+
+
+Question : What is official website of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+official	JJ	O	amod	4
+website	NN	O	nsubj	1
+of	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : What is official URL of New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+official	JJ	O	amod	4
+URL	NN	O	nsubj	1
+of	IN	O	prep	4
+New	NNP	ORGANIZATION	nn	8
+York	NNP	ORGANIZATION	nn	8
+Yankees	NNPS	ORGANIZATION	prep_of	4
+?	.	O	.	-1
+
+
+
+Question : Where is official website New York Yankees ? 
+
+WORD	POS	NER	Dependency	dep
+Where	WRB	O	advmod	2
+is	VBZ	O	root	0
+official	JJ	O	amod	4
+website	NN	O	nsubj	2
+New	NNP	ORGANIZATION	nn	7
+York	NNP	ORGANIZATION	nn	7
+Yankees	NNPS	ORGANIZATION	dep	4
+?	.	O	.	-1
+
+
+
+Question : What is the New York Yankees ' website ? 
+
+WORD	POS	NER	Dependency	dep
+What	WP	O	root	0
+is	VBZ	O	cop	1
+the	DT	O	det	6
+New	NNP	ORGANIZATION	nn	6
+York	NNP	ORGANIZATION	nn	6
+Yankees	NNPS	ORGANIZATION	poss	8
+'	POS	O	.	-1
+website	NN	O	nsubj	1
+?	.	O	.	-1
+
+
+

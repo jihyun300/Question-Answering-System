@@ -1,0 +1,54 @@
+/people/person/date_of_birth	When	birthday	born	birth	andrew	garfield
+/people/person/place_of_birth	Where	birth	hometown	city	born	andrew	garfield
+/people/person/ethnicity	What	ethnicity	ethnic	origin	group	andrew	garfield
+/people/person/spouse_s:/people/marriage/spouse	Who	partner	spouse	going	out	with	dating	andrew	garfield
+/people/person/gender	What	male	female	gender	sex	andrew	garfield
+/people/person/profession	What	profession	job	do	for	living	work	andrew	garfield
+/people/person/nationality	What	nationality	citizenship	andrew	garfield
+/people/person/religion	What	religion	religious	faith	andrew	garfield
+/people/person/height_meters	What	height	How	tall	andrew	garfield
+/people/person/places_lived:/people/place_lived/location	Where	live	past	life	grow	up	in	what	city	andrew	garfield
+/people/person/education:/education/education/institution	What	school	graduate	Where	education	educated	educate	andrew	garfield
+/location/country/capital	Where	capital	locate	located	location	What	city	laos
+/location/country/official_language	What	official	language	used	laos
+/location/country/currency_used	Which	currency	use	used	What	kind	currency	laos
+/location/country/languages_spoken	What	languages	language	speak	spoken	use	used	Which	laos
+/location/country/calling_code	What	Calling	calling	code	telephone	country	call	phone	laos
+/location/location/geolocation:/location/geocode/latitude:/location/geocode/longitude	Where	located	locate	What	geolocation	latitude	longitude	laos
+/location/location/area	What	area	How	large	laos
+/location/location/containedby	What	continent	contained	locate	located	contain	Which	Where	laos
+/location/statistical_region/religions:/location/religion_percentage/religion	What	religions	religion	religious	faiths	belong	laos
+/location/statistical_region/major_exports:/location/imports_exports_by_industry/industry	What	major	exports	export	exported	mainly	main	product	laos
+/location/dated_location/date_founded	When	founded	found	date	foundation	established	establish	What	laos
+/film/film/initial_release_date	When	release	date	come	out	start	magic	moonlight
+/film/film/directed_by	Who	director	direct	directed	made	make	magic	moonlight
+/film/film/starring:/film/performance/actor	Who	act	acted	perform	performed	play	role	played	appear	appeared	magic	moonlight
+/film/film/genre	What	genre	genres	fall	into	kind	movie	categorize	How	magic	moonlight
+/film/film/executive_produced_by	Who	executive	producer	produced	magic	moonlight
+/film/film/produced_by	Who	produced	producer	produce	people	producers	magic	moonlight
+/film/film/written_by	Who	wrote	screenplay	script	write	screen	writer	magic	moonlight
+/film/film/costume_design_by	Who	design	costume	designer	designed	oufit	magic	moonlight
+/film/film/rating	What	rating	How	magic	moonlight
+/film/film/country	Which	country	origin	What	magic	moonlight
+/film/film/trailers	What	trailer	trailers	teaser	movie	url	magic	moonlight
+/common/topic/official_website	What	official	website	url	Where	yonsei
+/education/educational_institution/school_type	What	school	type	Which	yonsei
+/education/educational_institution/phone_number:/common/phone_number/number	What	phone	number	yonsei
+/education/educational_institution/total_enrollment:/measurement_unit/dated_integer/number	How	total	enrollment	people	enrolls	enroll	enrollments	what	yonsei
+/education/educational_institution/colors	What	color	represent	yonsei
+/education/educational_institution/mascot	What	mascot	Which	yonsei
+/organization/organization/founders	Who	found	founded	foundation	founders	person	founder	yonsei
+/organization/organization/leadership:/organization/leadership/person	Who	leadership	president	charge	yonsei
+/education/university/domestic_tuition:/measurement_unit/dated_money_value/amount	How	much	tuition	fee	domestic	What	yonsei
+/location/location/containedby	Where	contain	contained	contains	locate	located	Which	country	yonsei
+/film/film_subject/films	What	movie	film	appear	Which	appear	about	yankees
+/business/customer/supplier	Who	supplier	supplies	supply	fund	funded	Which	corporation	yankees
+/sports/sports_team/sport	What	kind	sport	play	plays	Which	yankees
+/sports/sports_team/location	Where	sport	team	location	located	yankees
+/sports/sports_team/founded	When	found	founded	foundation	establish	What	year	date	established	yankees
+/sports/sports_team/colors	What	color	represent	colors	yankees
+/sports/sports_team/arena_stadium	What	stadium	arena	belong	Which	yankees
+/sports/sports_team_owner/teams_owned	Which	team	own	teams	owns	belong	owned	by	possess	yankees
+/baseball/baseball_team/league	Which	league	belong	in	What	belongs	yankees
+/sports/professional_sports_team/owner_s	Who	own	owns	owner	possessor	possess	yankees
+/common/topic/official_website	What	official	website	URL	Where	site	yankees
