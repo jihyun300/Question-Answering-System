@@ -1,0 +1,4774 @@
+Question: When is Andrew Garfield 's birthday ? 
+Answer: 1983-08-20
+
+=======================================================================
+Response Time: 40.648sec
+Freebase Input:
+{"/people/person/date_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/date_of_birth": [
+"1983-08-20"
+], 
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: When was Andrew Garfield born ? 
+Answer: 1983-08-20
+
+=======================================================================
+Response Time: 0.409sec
+Freebase Input:
+{"/people/person/date_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/date_of_birth": [
+"1983-08-20"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Do you know when Andrew Garfield 's birthday is ? 
+Answer: 1983-08-20
+
+=======================================================================
+Response Time: 0.411sec
+Freebase Input:
+{"/people/person/date_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"/people/person/date_of_birth": [
+"1983-08-20"
+], 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: When did Andrew Garfield give birth ? 
+Answer: 1983-08-20
+
+=======================================================================
+Response Time: 0.423sec
+Freebase Input:
+{"/people/person/date_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/date_of_birth": [
+"1983-08-20"
+]
+}
+}
+=======================================================================
+
+Question: Where was Andrew Garfield born ? 
+Answer: Los Angeles
+
+=======================================================================
+Response Time: 0.41sec
+Freebase Input:
+{"/people/person/place_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/place_of_birth": [
+"Los Angeles"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Where is Andrew Garfield 's hometown ? 
+Answer: Los Angeles
+
+=======================================================================
+Response Time: 0.382sec
+Freebase Input:
+{"/people/person/place_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/place_of_birth": [
+"Los Angeles"
+]
+}
+}
+=======================================================================
+
+Question: What is the city where Andrew Garfield born ? 
+Answer: Los Angeles
+
+=======================================================================
+Response Time: 0.384sec
+Freebase Input:
+{"/people/person/place_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/place_of_birth": [
+"Los Angeles"
+]
+}
+}
+=======================================================================
+
+Question: Do you know where Andrew Garfield was born ? 
+Answer: Los Angeles
+
+=======================================================================
+Response Time: 0.434sec
+Freebase Input:
+{"/people/person/place_of_birth":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/place_of_birth": [
+"Los Angeles"
+]
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's ethnicity ? 
+Answer: Jewish people/British American
+
+=======================================================================
+Response Time: 0.399sec
+Freebase Input:
+{"/people/person/ethnicity":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/ethnicity": [
+"Jewish people", 
+"British American"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's ethnic origin ? 
+Answer: Jewish people/British American
+
+=======================================================================
+Response Time: 0.408sec
+Freebase Input:
+{"/people/person/ethnicity":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"/people/person/ethnicity": [
+"Jewish people", 
+"British American"
+], 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's ethnic group ? 
+Answer: Jewish people/British American
+
+=======================================================================
+Response Time: 0.361sec
+Freebase Input:
+{"/people/person/ethnicity":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/ethnicity": [
+"Jewish people", 
+"British American"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Do you know what Andrew Garfield 's ethnicity is ? 
+Answer: Jewish people/British American
+
+=======================================================================
+Response Time: 0.358sec
+Freebase Input:
+{"/people/person/ethnicity":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/ethnicity": [
+"Jewish people", 
+"British American"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Who is Andrew Garfield 's spouse ? 
+Answer: Andrew Garfield/Emma Stone
+
+=======================================================================
+Response Time: 0.435sec
+Freebase Input:
+{"/people/person/spouse_s":[{"/people/marriage/spouse":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/spouse_s": [
+{
+"/people/marriage/spouse": [
+"Andrew Garfield", 
+"Emma Stone"
+]
+}
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Who is Andrew Garfield 's partner ? 
+Answer: Andrew Garfield/Emma Stone
+
+=======================================================================
+Response Time: 0.378sec
+Freebase Input:
+{"/people/person/spouse_s":[{"/people/marriage/spouse":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/spouse_s": [
+{
+"/people/marriage/spouse": [
+"Andrew Garfield", 
+"Emma Stone"
+]
+}
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Who have been going out with Andrew Garfield ? 
+Answer: Andrew Garfield/Emma Stone
+
+=======================================================================
+Response Time: 0.423sec
+Freebase Input:
+{"/people/person/spouse_s":[{"/people/marriage/spouse":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/spouse_s": [
+{
+"/people/marriage/spouse": [
+"Andrew Garfield", 
+"Emma Stone"
+]
+}
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Who have been dating Andrew Garfield ? 
+Answer: Andrew Garfield/Emma Stone
+
+=======================================================================
+Response Time: 0.41sec
+Freebase Input:
+{"/people/person/spouse_s":[{"/people/marriage/spouse":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/spouse_s": [
+{
+"/people/marriage/spouse": [
+"Andrew Garfield", 
+"Emma Stone"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What gender is Andrew Garfield ? 
+Answer: Male
+
+=======================================================================
+Response Time: 0.427sec
+Freebase Input:
+{"/people/person/gender":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/gender": [
+"Male"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's gender ? 
+Answer: Male
+
+=======================================================================
+Response Time: 0.378sec
+Freebase Input:
+{"/people/person/gender":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/gender": [
+"Male"
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Is Andrew Garfield male or female ? 
+Answer: Male
+
+=======================================================================
+Response Time: 0.382sec
+Freebase Input:
+{"/people/person/gender":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/gender": [
+"Male"
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What sex is Andrew Garfield ? 
+Answer: Male
+
+=======================================================================
+Response Time: 0.444sec
+Freebase Input:
+{"/people/person/gender":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/gender": [
+"Male"
+], 
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's profession ? 
+Answer: Actor
+
+=======================================================================
+Response Time: 0.355sec
+Freebase Input:
+{"/people/person/profession":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/profession": [
+"Actor"
+]
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's job ? 
+Answer: Actor
+
+=======================================================================
+Response Time: 0.429sec
+Freebase Input:
+{"/people/person/profession":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/profession": [
+"Actor"
+]
+}
+}
+=======================================================================
+
+Question: What does Andrew Garfield do for a living ? 
+Answer: Actor
+
+=======================================================================
+Response Time: 0.374sec
+Freebase Input:
+{"/people/person/profession":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/profession": [
+"Actor"
+]
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's work ? 
+Answer: Actor
+
+=======================================================================
+Response Time: 0.389sec
+Freebase Input:
+{"/people/person/profession":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"/people/person/profession": [
+"Actor"
+], 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's nationality ? 
+Answer: United States of America/United Kingdom
+
+=======================================================================
+Response Time: 0.384sec
+Freebase Input:
+{"/people/person/nationality":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/nationality": [
+"United States of America", 
+"United Kingdom"
+]
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's citizenship ? 
+Answer: United States of America/United Kingdom
+
+=======================================================================
+Response Time: 0.426sec
+Freebase Input:
+{"/people/person/nationality":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/nationality": [
+"United States of America", 
+"United Kingdom"
+], 
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: What nationality is Andrew Garfield ? 
+Answer: United States of America/United Kingdom
+
+=======================================================================
+Response Time: 0.404sec
+Freebase Input:
+{"/people/person/nationality":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/nationality": [
+"United States of America", 
+"United Kingdom"
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What citizenship is Andrew Garfield ? 
+Answer: United States of America/United Kingdom
+
+=======================================================================
+Response Time: 0.396sec
+Freebase Input:
+{"/people/person/nationality":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/nationality": [
+"United States of America", 
+"United Kingdom"
+]
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's religion ? 
+Answer: Judaism
+
+=======================================================================
+Response Time: 0.462sec
+Freebase Input:
+{"/people/person/religion":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"/people/person/religion": [
+"Judaism"
+], 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: What religion Andrew Garfield has ? 
+Answer: Judaism
+
+=======================================================================
+Response Time: 0.736sec
+Freebase Input:
+{"/people/person/religion":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/religion": [
+"Judaism"
+]
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's religious faith ? 
+Answer: Judaism
+
+=======================================================================
+Response Time: 0.387sec
+Freebase Input:
+{"/people/person/religion":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/religion": [
+"Judaism"
+], 
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: What religion does Andrew Garfield belong to ? 
+Answer: Judaism
+
+=======================================================================
+Response Time: 0.46sec
+Freebase Input:
+{"/people/person/religion":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/religion": [
+"Judaism"
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What is Andrew Garfield 's height ? 
+Answer: 1.790000
+
+=======================================================================
+Response Time: 0.811sec
+Freebase Input:
+{"/people/person/height_meters":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/height_meters": [
+1.79
+]
+}
+}
+=======================================================================
+
+Question: How tall is Andrew Garfield ? 
+Answer: 1.790000
+
+=======================================================================
+Response Time: 0.428sec
+Freebase Input:
+{"/people/person/height_meters":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/height_meters": [
+1.79
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Do you know what Andrew Garfield 's height is ? 
+Answer: 1.790000
+
+=======================================================================
+Response Time: 0.396sec
+Freebase Input:
+{"/people/person/height_meters":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"/people/person/height_meters": [
+1.79
+], 
+"mid": "/m/0fjmbk"
+}
+}
+=======================================================================
+
+Question: Do you know how tall Andrew Garfield is ? 
+Answer: 1.790000
+
+=======================================================================
+Response Time: 0.386sec
+Freebase Input:
+{"/people/person/height_meters":[],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/height_meters": [
+1.79
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Where did Andrew Garfield live in his past life ? 
+Answer: Epsom
+
+=======================================================================
+Response Time: 0.443sec
+Freebase Input:
+{"/people/person/places_lived":[{"/people/place_lived/location":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/places_lived": [
+{
+"/people/place_lived/location": [
+"Epsom"
+]
+}, 
+{
+"/people/place_lived/location": [
+"Los Angeles"
+]
+}
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Where was Andrew Garfield in a past life ? 
+Answer: Epsom
+
+=======================================================================
+Response Time: 0.408sec
+Freebase Input:
+{"/people/person/places_lived":[{"/people/place_lived/location":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield", 
+"/people/person/places_lived": [
+{
+"/people/place_lived/location": [
+"Epsom"
+]
+}, 
+{
+"/people/place_lived/location": [
+"Los Angeles"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What city did Andrew Garfield live ? 
+Answer: Epsom
+
+=======================================================================
+Response Time: 0.406sec
+Freebase Input:
+{"/people/person/places_lived":[{"/people/place_lived/location":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0fjmbk", 
+"/people/person/places_lived": [
+{
+"/people/place_lived/location": [
+"Epsom"
+]
+}, 
+{
+"/people/place_lived/location": [
+"Los Angeles"
+]
+}
+], 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What city did Andrew Garfield grow up in ? 
+Answer: Epsom
+
+=======================================================================
+Response Time: 0.392sec
+Freebase Input:
+{"/people/person/places_lived":[{"/people/place_lived/location":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/places_lived": [
+{
+"/people/place_lived/location": [
+"Epsom"
+]
+}, 
+{
+"/people/place_lived/location": [
+"Los Angeles"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What school did Andrew Garfield go to ? 
+Answer: Central School of Speech and Drama
+
+=======================================================================
+Response Time: 0.415sec
+Freebase Input:
+{"/people/person/education":[{"/education/education/institution":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/education": [
+{
+"/education/education/institution": [
+"Central School of Speech and Drama"
+]
+}, 
+{
+"/education/education/institution": [
+"City of London Freemen's School"
+]
+}, 
+{
+"/education/education/institution": [
+"Priory Preparatory School"
+]
+}
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: What school did Andrew Garfield graduate from ? 
+Answer: Central School of Speech and Drama
+
+=======================================================================
+Response Time: 0.438sec
+Freebase Input:
+{"/people/person/education":[{"/education/education/institution":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/education": [
+{
+"/education/education/institution": [
+"Central School of Speech and Drama"
+]
+}, 
+{
+"/education/education/institution": [
+"City of London Freemen's School"
+]
+}, 
+{
+"/education/education/institution": [
+"Priory Preparatory School"
+]
+}
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Where did Andrew Garfield get an education ? 
+Answer: Central School of Speech and Drama
+
+=======================================================================
+Response Time: 0.371sec
+Freebase Input:
+{"/people/person/education":[{"/education/education/institution":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"name": "Andrew Garfield", 
+"mid": "/m/0fjmbk", 
+"/people/person/education": [
+{
+"/education/education/institution": [
+"Central School of Speech and Drama"
+]
+}, 
+{
+"/education/education/institution": [
+"City of London Freemen's School"
+]
+}, 
+{
+"/education/education/institution": [
+"Priory Preparatory School"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: Where was Andrew Garfield educated in ? 
+Answer: Central School of Speech and Drama
+
+=======================================================================
+Response Time: 0.456sec
+Freebase Input:
+{"/people/person/education":[{"/education/education/institution":[]}],"name":"Andrew Garfield","mid":"/m/0fjmbk"}
+Freebase Response:
+{
+"result": {
+"/people/person/education": [
+{
+"/education/education/institution": [
+"Central School of Speech and Drama"
+]
+}, 
+{
+"/education/education/institution": [
+"City of London Freemen's School"
+]
+}, 
+{
+"/education/education/institution": [
+"Priory Preparatory School"
+]
+}
+], 
+"mid": "/m/0fjmbk", 
+"name": "Andrew Garfield"
+}
+}
+=======================================================================
+
+Question: Where is Laos capital located ? 
+Answer: Vientiane
+
+=======================================================================
+Response Time: 0.398sec
+Freebase Input:
+{"/location/country/capital":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/capital": [
+"Vientiane"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What city is Laos capital located ? 
+Answer: Vientiane
+
+=======================================================================
+Response Time: 0.424sec
+Freebase Input:
+{"/location/country/capital":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/country/capital": [
+"Vientiane"
+]
+}
+}
+=======================================================================
+
+Question: What is the capital of Laos ? 
+Answer: Vientiane
+
+=======================================================================
+Response Time: 0.423sec
+Freebase Input:
+{"/location/country/capital":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/country/capital": [
+"Vientiane"
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: Do you know the capital of Laos ? 
+Answer: Vientiane
+
+=======================================================================
+Response Time: 0.549sec
+Freebase Input:
+{"/location/country/capital":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/capital": [
+"Vientiane"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What is Laos 's official language ? 
+Answer: Lao Language
+
+=======================================================================
+Response Time: 5.385sec
+Freebase Input:
+{"/location/country/official_language":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/country/official_language": [
+"Lao Language"
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What language is the official of Laos ? 
+Answer: Lao Language
+
+=======================================================================
+Response Time: 0.361sec
+Freebase Input:
+{"/location/country/official_language":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/country/official_language": [
+"Lao Language"
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What official language is used in Laos ? 
+Answer: Lao Language
+
+=======================================================================
+Response Time: 0.378sec
+Freebase Input:
+{"/location/country/official_language":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/country/official_language": [
+"Lao Language"
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: Do you know the official language of Laos ? 
+Answer: Lao Language
+
+=======================================================================
+Response Time: 0.359sec
+Freebase Input:
+{"/location/country/official_language":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/country/official_language": [
+"Lao Language"
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: Which currency is used in Laos ? 
+Answer: Lao kip
+
+=======================================================================
+Response Time: 0.45sec
+Freebase Input:
+{"/location/country/currency_used":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/country/currency_used": [
+"Lao kip"
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What kind of currency is used in Laos ? 
+Answer: Lao kip
+
+=======================================================================
+Response Time: 0.369sec
+Freebase Input:
+{"/location/country/currency_used":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/country/currency_used": [
+"Lao kip"
+]
+}
+}
+=======================================================================
+
+Question: What currency does Laos use ? 
+Answer: Lao kip
+
+=======================================================================
+Response Time: 0.416sec
+Freebase Input:
+{"/location/country/currency_used":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/country/currency_used": [
+"Lao kip"
+]
+}
+}
+=======================================================================
+
+Question: What currency do they use in Laos ? 
+Answer: Lao kip
+
+=======================================================================
+Response Time: 0.407sec
+Freebase Input:
+{"/location/country/currency_used":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/country/currency_used": [
+"Lao kip"
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What languages are spoken in Laos ? 
+Answer: English Language/Lao Language/French
+
+=======================================================================
+Response Time: 0.395sec
+Freebase Input:
+{"/location/country/languages_spoken":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/languages_spoken": [
+"English Language", 
+"Lao Language", 
+"French"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What languages does Laos speak ? 
+Answer: English Language/Lao Language/French
+
+=======================================================================
+Response Time: 1.574sec
+Freebase Input:
+{"/location/country/languages_spoken":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/languages_spoken": [
+"English Language", 
+"Lao Language", 
+"French"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What languages are used in Laos ? 
+Answer: English Language/Lao Language/French
+
+=======================================================================
+Response Time: 0.428sec
+Freebase Input:
+{"/location/country/languages_spoken":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/languages_spoken": [
+"English Language", 
+"Lao Language", 
+"French"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: Which languages are used in Laos ? 
+Answer: English Language/Lao Language/French
+
+=======================================================================
+Response Time: 0.909sec
+Freebase Input:
+{"/location/country/languages_spoken":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/languages_spoken": [
+"English Language", 
+"Lao Language", 
+"French"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What is Laos 's Calling code ? 
+Answer: 856
+
+=======================================================================
+Response Time: 0.395sec
+Freebase Input:
+{"/location/country/calling_code":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/country/calling_code": [
+856
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What is Laos 's Telephone country code ? 
+Answer: 856
+
+=======================================================================
+Response Time: 0.373sec
+Freebase Input:
+{"/location/country/calling_code":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/country/calling_code": [
+856
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: How to call a Laos ? 
+Answer: 856
+
+=======================================================================
+Response Time: 0.403sec
+Freebase Input:
+{"/location/country/calling_code":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/country/calling_code": [
+856
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What is phone code of Laos ? 
+Answer: 856
+
+=======================================================================
+Response Time: 0.436sec
+Freebase Input:
+{"/location/country/calling_code":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/country/calling_code": [
+856
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: Where is Laos located ? 
+Answer: Southeast Asia/Asia/Eurasia
+
+=======================================================================
+Response Time: 0.416sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/location/containedby": [
+"Southeast Asia", 
+"Asia", 
+"Eurasia"
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What is Laos 's geolocation ? 
+Answer: 17.966667
+
+=======================================================================
+Response Time: 1.04sec
+Freebase Input:
+{"/location/location/geolocation":[{"/location/geocode/latitude":[],"/location/geocode/longitude":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"mid": "/m/04hhv", 
+"/location/location/geolocation": [
+{
+"/location/geocode/latitude": [
+17.966667
+], 
+"/location/geocode/longitude": [
+102.6
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What are latitude and longitude of Laos ? 
+Answer: 17.966667
+
+=======================================================================
+Response Time: 0.641sec
+Freebase Input:
+{"/location/location/geolocation":[{"/location/geocode/latitude":[],"/location/geocode/longitude":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/location/geolocation": [
+{
+"/location/geocode/latitude": [
+17.966667
+], 
+"/location/geocode/longitude": [
+102.6
+]
+}
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: Do you know where Laos is ? 
+Answer: Southeast Asia/Asia/Eurasia
+
+=======================================================================
+Response Time: 0.397sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/location/containedby": [
+"Southeast Asia", 
+"Asia", 
+"Eurasia"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What is the area of Laos ? 
+Answer: 236800.000000
+
+=======================================================================
+Response Time: 0.636sec
+Freebase Input:
+{"/location/location/area":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/location/area": [
+236800.0
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: How large is Laos ? 
+Answer: 236800.000000
+
+=======================================================================
+Response Time: 0.383sec
+Freebase Input:
+{"/location/location/area":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/location/area": [
+236800.0
+]
+}
+}
+=======================================================================
+
+Question: What is the Laos 's area ? 
+Answer: 236800.000000
+
+=======================================================================
+Response Time: 0.412sec
+Freebase Input:
+{"/location/location/area":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/location/area": [
+236800.0
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: Do you know the area of Laos ? 
+Answer: 236800.000000
+
+=======================================================================
+Response Time: 0.386sec
+Freebase Input:
+{"/location/location/area":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/location/area": [
+236800.0
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What continent is Laos contained by ? 
+Answer: Southeast Asia/Asia/Eurasia
+
+=======================================================================
+Response Time: 0.355sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/location/containedby": [
+"Southeast Asia", 
+"Asia", 
+"Eurasia"
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: Which continent is Laos located ? 
+Answer: Southeast Asia/Asia/Eurasia
+
+=======================================================================
+Response Time: 0.372sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/location/containedby": [
+"Southeast Asia", 
+"Asia", 
+"Eurasia"
+]
+}
+}
+=======================================================================
+
+Question: Where is Laos contained by ? 
+Answer: Southeast Asia/Asia/Eurasia
+
+=======================================================================
+Response Time: 0.386sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/location/containedby": [
+"Southeast Asia", 
+"Asia", 
+"Eurasia"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What continent is Laos in ? 
+Answer: Southeast Asia/Asia/Eurasia
+
+=======================================================================
+Response Time: 0.419sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"/location/location/containedby": [
+"Southeast Asia", 
+"Asia", 
+"Eurasia"
+], 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What are Laos 's religions ? 
+Answer: Christianity
+
+=======================================================================
+Response Time: 0.44sec
+Freebase Input:
+{"/location/statistical_region/religions":[{"/location/religion_percentage/religion":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"mid": "/m/04hhv", 
+"/location/statistical_region/religions": [
+{
+"/location/religion_percentage/religion": [
+"Christianity"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Buddhism"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Animism"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What religions Laos are ? 
+Answer: Christianity
+
+=======================================================================
+Response Time: 0.484sec
+Freebase Input:
+{"/location/statistical_region/religions":[{"/location/religion_percentage/religion":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/statistical_region/religions": [
+{
+"/location/religion_percentage/religion": [
+"Christianity"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Buddhism"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Animism"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What are Laos 's religious faiths ? 
+Answer: Christianity
+
+=======================================================================
+Response Time: 0.417sec
+Freebase Input:
+{"/location/statistical_region/religions":[{"/location/religion_percentage/religion":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/statistical_region/religions": [
+{
+"/location/religion_percentage/religion": [
+"Christianity"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Buddhism"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Animism"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What religions does Laos belong to ? 
+Answer: Christianity
+
+=======================================================================
+Response Time: 0.39sec
+Freebase Input:
+{"/location/statistical_region/religions":[{"/location/religion_percentage/religion":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/statistical_region/religions": [
+{
+"/location/religion_percentage/religion": [
+"Christianity"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Buddhism"
+]
+}, 
+{
+"/location/religion_percentage/religion": [
+"Animism"
+]
+}
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What are Laos 's major exports ? 
+Answer: Coffee
+
+=======================================================================
+Response Time: 0.385sec
+Freebase Input:
+{"/location/statistical_region/major_exports":[{"/location/imports_exports_by_industry/industry":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"name": "Laos", 
+"/location/statistical_region/major_exports": [
+{
+"/location/imports_exports_by_industry/industry": [
+"Coffee"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Gold"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Copper"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Electricity"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Wood Products, NEC"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: What does Laos export mainly ? 
+Answer: Coffee
+
+=======================================================================
+Response Time: 0.409sec
+Freebase Input:
+{"/location/statistical_region/major_exports":[{"/location/imports_exports_by_industry/industry":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/statistical_region/major_exports": [
+{
+"/location/imports_exports_by_industry/industry": [
+"Coffee"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Gold"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Copper"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Electricity"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Wood Products, NEC"
+]
+}
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What are Laos 's main products which are exported ? 
+Answer: Coffee
+
+=======================================================================
+Response Time: 0.411sec
+Freebase Input:
+{"/location/statistical_region/major_exports":[{"/location/imports_exports_by_industry/industry":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/statistical_region/major_exports": [
+{
+"/location/imports_exports_by_industry/industry": [
+"Coffee"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Gold"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Copper"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Electricity"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Wood Products, NEC"
+]
+}
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What products are mainly exported in Laos ? 
+Answer: Coffee
+
+=======================================================================
+Response Time: 0.423sec
+Freebase Input:
+{"/location/statistical_region/major_exports":[{"/location/imports_exports_by_industry/industry":[]}],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/statistical_region/major_exports": [
+{
+"/location/imports_exports_by_industry/industry": [
+"Coffee"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Gold"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Copper"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Electricity"
+]
+}, 
+{
+"/location/imports_exports_by_industry/industry": [
+"Wood Products, NEC"
+]
+}
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: When was Laos founded ? 
+Answer: 1949-07-19
+
+=======================================================================
+Response Time: 0.348sec
+Freebase Input:
+{"/location/dated_location/date_founded":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/dated_location/date_founded": [
+"1949-07-19"
+], 
+"name": "Laos", 
+"mid": "/m/04hhv"
+}
+}
+=======================================================================
+
+Question: What date is Laos founded ? 
+Answer: 1949-07-19
+
+=======================================================================
+Response Time: 0.436sec
+Freebase Input:
+{"/location/dated_location/date_founded":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/04hhv", 
+"/location/dated_location/date_founded": [
+"1949-07-19"
+], 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: What is the date of foundation of Laos ? 
+Answer: 1949-07-19
+
+=======================================================================
+Response Time: 0.383sec
+Freebase Input:
+{"/location/dated_location/date_founded":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"/location/dated_location/date_founded": [
+"1949-07-19"
+], 
+"mid": "/m/04hhv", 
+"name": "Laos"
+}
+}
+=======================================================================
+
+Question: When was Laos established ? 
+Answer: 1949-07-19
+
+=======================================================================
+Response Time: 0.433sec
+Freebase Input:
+{"/location/dated_location/date_founded":[],"name":"Laos","mid":"/m/04hhv"}
+Freebase Response:
+{
+"result": {
+"name": "Laos", 
+"mid": "/m/04hhv", 
+"/location/dated_location/date_founded": [
+"1949-07-19"
+]
+}
+}
+=======================================================================
+
+Question: When did the movie `` Magic in the moonlight '' release ? 
+Answer: 2014-07-17
+
+=======================================================================
+Response Time: 0.361sec
+Freebase Input:
+{"/film/film/initial_release_date":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"/film/film/initial_release_date": [
+"2014-07-17"
+], 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: When is the release date of `` Magic in the moonlight '' ? 
+Answer: 2014-07-17
+
+=======================================================================
+Response Time: 0.371sec
+Freebase Input:
+{"/film/film/initial_release_date":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"/film/film/initial_release_date": [
+"2014-07-17"
+], 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: When did the movie `` Magic in the moonlight '' come out ? 
+Answer: 2014-07-17
+
+=======================================================================
+Response Time: 0.393sec
+Freebase Input:
+{"/film/film/initial_release_date":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/initial_release_date": [
+"2014-07-17"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: When did the movie `` Magic in the moonlight '' start ? 
+Answer: 2014-07-17
+
+=======================================================================
+Response Time: 0.395sec
+Freebase Input:
+{"/film/film/initial_release_date":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/initial_release_date": [
+"2014-07-17"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: Who is the director of `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.356sec
+Freebase Input:
+{"/film/film/directed_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/directed_by": [
+"Woody Allen"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: Who directed `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.396sec
+Freebase Input:
+{"/film/film/directed_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/directed_by": [
+"Woody Allen"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: Do you know who directed `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.406sec
+Freebase Input:
+{"/film/film/directed_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/directed_by": [
+"Woody Allen"
+]
+}
+}
+=======================================================================
+
+Question: Who made the movie `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.368sec
+Freebase Input:
+{"/film/film/directed_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"/film/film/directed_by": [
+"Woody Allen"
+], 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: Who acted in `` Magic in the moonlight '' ? 
+Answer: Emma Stone
+
+=======================================================================
+Response Time: 0.389sec
+Freebase Input:
+{"/film/film/starring":[{"/film/performance/actor":[]}],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/starring": [
+{
+"/film/performance/actor": [
+"Emma Stone"
+]
+}, 
+{
+"/film/performance/actor": [
+"Colin Firth"
+]
+}, 
+{
+"/film/performance/actor": [
+"Marcia Gay Harden"
+]
+}, 
+{
+"/film/performance/actor": [
+"Hamish Linklater"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jacki Weaver"
+]
+}, 
+{
+"/film/performance/actor": [
+"Eileen Atkins"
+]
+}, 
+{
+"/film/performance/actor": [
+"Erica Leerhsen"
+]
+}, 
+{
+"/film/performance/actor": [
+"Simon McBurney"
+]
+}, 
+{
+"/film/performance/actor": [
+"Antonia Clarke"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jeremy Shamos"
+]
+}, 
+{
+"/film/performance/actor": [
+"Kenneth Edelson"
+]
+}, 
+{
+"/film/performance/actor": [
+"Natasha Andrews"
+]
+}
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Who performed in `` Magic in the moonlight '' ? 
+Answer: Emma Stone
+
+=======================================================================
+Response Time: 0.411sec
+Freebase Input:
+{"/film/film/starring":[{"/film/performance/actor":[]}],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/starring": [
+{
+"/film/performance/actor": [
+"Emma Stone"
+]
+}, 
+{
+"/film/performance/actor": [
+"Colin Firth"
+]
+}, 
+{
+"/film/performance/actor": [
+"Marcia Gay Harden"
+]
+}, 
+{
+"/film/performance/actor": [
+"Hamish Linklater"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jacki Weaver"
+]
+}, 
+{
+"/film/performance/actor": [
+"Eileen Atkins"
+]
+}, 
+{
+"/film/performance/actor": [
+"Erica Leerhsen"
+]
+}, 
+{
+"/film/performance/actor": [
+"Simon McBurney"
+]
+}, 
+{
+"/film/performance/actor": [
+"Antonia Clarke"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jeremy Shamos"
+]
+}, 
+{
+"/film/performance/actor": [
+"Kenneth Edelson"
+]
+}, 
+{
+"/film/performance/actor": [
+"Natasha Andrews"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: Who played a role in `` Magic in the moonlight '' ? 
+Answer: Emma Stone
+
+=======================================================================
+Response Time: 0.378sec
+Freebase Input:
+{"/film/film/starring":[{"/film/performance/actor":[]}],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/starring": [
+{
+"/film/performance/actor": [
+"Emma Stone"
+]
+}, 
+{
+"/film/performance/actor": [
+"Colin Firth"
+]
+}, 
+{
+"/film/performance/actor": [
+"Marcia Gay Harden"
+]
+}, 
+{
+"/film/performance/actor": [
+"Hamish Linklater"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jacki Weaver"
+]
+}, 
+{
+"/film/performance/actor": [
+"Eileen Atkins"
+]
+}, 
+{
+"/film/performance/actor": [
+"Erica Leerhsen"
+]
+}, 
+{
+"/film/performance/actor": [
+"Simon McBurney"
+]
+}, 
+{
+"/film/performance/actor": [
+"Antonia Clarke"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jeremy Shamos"
+]
+}, 
+{
+"/film/performance/actor": [
+"Kenneth Edelson"
+]
+}, 
+{
+"/film/performance/actor": [
+"Natasha Andrews"
+]
+}
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: Who appeared on `` Magic in the moonlight '' ? 
+Answer: Emma Stone
+
+=======================================================================
+Response Time: 0.4sec
+Freebase Input:
+{"/film/film/starring":[{"/film/performance/actor":[]}],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/starring": [
+{
+"/film/performance/actor": [
+"Emma Stone"
+]
+}, 
+{
+"/film/performance/actor": [
+"Colin Firth"
+]
+}, 
+{
+"/film/performance/actor": [
+"Marcia Gay Harden"
+]
+}, 
+{
+"/film/performance/actor": [
+"Hamish Linklater"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jacki Weaver"
+]
+}, 
+{
+"/film/performance/actor": [
+"Eileen Atkins"
+]
+}, 
+{
+"/film/performance/actor": [
+"Erica Leerhsen"
+]
+}, 
+{
+"/film/performance/actor": [
+"Simon McBurney"
+]
+}, 
+{
+"/film/performance/actor": [
+"Antonia Clarke"
+]
+}, 
+{
+"/film/performance/actor": [
+"Jeremy Shamos"
+]
+}, 
+{
+"/film/performance/actor": [
+"Kenneth Edelson"
+]
+}, 
+{
+"/film/performance/actor": [
+"Natasha Andrews"
+]
+}
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: What are genres of `` Magic in the moonlight '' ? 
+Answer: Comedy/Drama/Romance Film/Drama film
+
+=======================================================================
+Response Time: 0.385sec
+Freebase Input:
+{"/film/film/genre":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/genre": [
+"Comedy", 
+"Drama", 
+"Romance Film", 
+"Drama film"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What genres do `` Magic in the moonlight '' fall into ? 
+Answer: Comedy/Drama/Romance Film/Drama film
+
+=======================================================================
+Response Time: 0.955sec
+Freebase Input:
+{"/film/film/genre":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/genre": [
+"Comedy", 
+"Drama", 
+"Romance Film", 
+"Drama film"
+]
+}
+}
+=======================================================================
+
+Question: What kind of movie is `` Magic in the moonlight '' ? 
+Answer: Comedy/Drama/Romance Film/Drama film
+
+=======================================================================
+Response Time: 0.406sec
+Freebase Input:
+{"/film/film/genre":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight", 
+"/film/film/genre": [
+"Comedy", 
+"Drama", 
+"Romance Film", 
+"Drama film"
+]
+}
+}
+=======================================================================
+
+Question: How can we categorize `` Magic in the moonlight '' by genres ? 
+Answer: Comedy/Drama/Romance Film/Drama film
+
+=======================================================================
+Response Time: 0.364sec
+Freebase Input:
+{"/film/film/genre":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/genre": [
+"Comedy", 
+"Drama", 
+"Romance Film", 
+"Drama film"
+]
+}
+}
+=======================================================================
+
+Question: Who is an executive producer of `` Magic in the moonlight '' ? 
+Answer: Ron Chez
+
+=======================================================================
+Response Time: 0.38sec
+Freebase Input:
+{"/film/film/executive_produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight", 
+"/film/film/executive_produced_by": [
+"Ron Chez"
+]
+}
+}
+=======================================================================
+
+Question: Who executive produced `` Magic in the moonlight '' ? 
+Answer: Ron Chez
+
+=======================================================================
+Response Time: 0.665sec
+Freebase Input:
+{"/film/film/executive_produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight", 
+"/film/film/executive_produced_by": [
+"Ron Chez"
+]
+}
+}
+=======================================================================
+
+Question: Do you know an executive producer of `` Magic in the moonlight '' ? 
+Answer: Ron Chez
+
+=======================================================================
+Response Time: 0.372sec
+Freebase Input:
+{"/film/film/executive_produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/executive_produced_by": [
+"Ron Chez"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Do you know who executive produced `` Magic in the moonlight '' ? 
+Answer: Ron Chez
+
+=======================================================================
+Response Time: 0.356sec
+Freebase Input:
+{"/film/film/executive_produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight", 
+"/film/film/executive_produced_by": [
+"Ron Chez"
+]
+}
+}
+=======================================================================
+
+Question: Who produced `` Magic in the moonlight '' ? 
+Answer: Ron Chez
+
+=======================================================================
+Response Time: 0.382sec
+Freebase Input:
+{"/film/film/executive_produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/executive_produced_by": [
+"Ron Chez"
+]
+}
+}
+=======================================================================
+
+Question: Who are the producers of `` Magic in the moonlight '' ? 
+Answer: Letty Aronson/Stephen Tenenbaum/Edward Walson
+
+=======================================================================
+Response Time: 0.398sec
+Freebase Input:
+{"/film/film/produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/produced_by": [
+"Letty Aronson", 
+"Stephen Tenenbaum", 
+"Edward Walson"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: Who are the people that produced `` Magic in the moonlight '' ? 
+Answer: Letty Aronson/Stephen Tenenbaum/Edward Walson
+
+=======================================================================
+Response Time: 0.4sec
+Freebase Input:
+{"/film/film/produced_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/produced_by": [
+"Letty Aronson", 
+"Stephen Tenenbaum", 
+"Edward Walson"
+]
+}
+}
+=======================================================================
+
+Question: Who are the `` Magic in the moonlight '' 's producers ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.374sec
+Freebase Input:
+{"/film/film/written_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight", 
+"/film/film/written_by": [
+"Woody Allen"
+]
+}
+}
+=======================================================================
+
+Question: Who wrote the screenplay of `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 1.537sec
+Freebase Input:
+{"/film/film/written_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/written_by": [
+"Woody Allen"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Who wrote the script of `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.427sec
+Freebase Input:
+{"/film/film/written_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/written_by": [
+"Woody Allen"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Who wrote the `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.412sec
+Freebase Input:
+{"/film/film/written_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/written_by": [
+"Woody Allen"
+]
+}
+}
+=======================================================================
+
+Question: who is the screen writer of `` Magic in the moonlight '' ? 
+Answer: Woody Allen
+
+=======================================================================
+Response Time: 0.42sec
+Freebase Input:
+{"/film/film/written_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"/film/film/written_by": [
+"Woody Allen"
+], 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Who designed costume of `` Magic in the moonlight '' ? 
+Answer: Sonia Grande
+
+=======================================================================
+Response Time: 0.345sec
+Freebase Input:
+{"/film/film/costume_design_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/costume_design_by": [
+"Sonia Grande"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Who is the costume designer of `` Magic in the moonlight '' ? 
+Answer: Sonia Grande
+
+=======================================================================
+Response Time: 0.37sec
+Freebase Input:
+{"/film/film/costume_design_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/costume_design_by": [
+"Sonia Grande"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Who designed outfit of `` Magic in the moonlight '' ? 
+Answer: Sonia Grande
+
+=======================================================================
+Response Time: 0.41sec
+Freebase Input:
+{"/film/film/costume_design_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/costume_design_by": [
+"Sonia Grande"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Do you know who the costume designer of `` Magic in the moonlight '' is ? 
+Answer: Sonia Grande
+
+=======================================================================
+Response Time: 0.372sec
+Freebase Input:
+{"/film/film/costume_design_by":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/costume_design_by": [
+"Sonia Grande"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: What is the rating of `` Magic in the moonlight '' ? 
+Answer: PG-13 (USA)/All/12+
+
+=======================================================================
+Response Time: 0.366sec
+Freebase Input:
+{"/film/film/rating":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/rating": [
+"PG-13 (USA)", 
+"All", 
+"12+"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: How does the rating of `` Magic in the moonlight '' ? 
+Answer: PG-13 (USA)/All/12+
+
+=======================================================================
+Response Time: 0.415sec
+Freebase Input:
+{"/film/film/rating":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/rating": [
+"PG-13 (USA)", 
+"All", 
+"12+"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is `` Magic in the moonlight '' 's rating ? 
+Answer: PG-13 (USA)/All/12+
+
+=======================================================================
+Response Time: 0.382sec
+Freebase Input:
+{"/film/film/rating":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/rating": [
+"PG-13 (USA)", 
+"All", 
+"12+"
+]
+}
+}
+=======================================================================
+
+Question: Do you know the rating of `` Magic in the moonlight '' ? 
+Answer: PG-13 (USA)/All/12+
+
+=======================================================================
+Response Time: 0.365sec
+Freebase Input:
+{"/film/film/rating":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/rating": [
+"PG-13 (USA)", 
+"All", 
+"12+"
+], 
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight"
+}
+}
+=======================================================================
+
+Question: Which country is origin of `` Magic in the moonlight '' ? 
+Answer: United States of America
+
+=======================================================================
+Response Time: 0.393sec
+Freebase Input:
+{"/film/film/country":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95", 
+"/film/film/country": [
+"United States of America"
+]
+}
+}
+=======================================================================
+
+Question: Where is `` Magic in the moonlight '' 's Country of origin ? 
+Answer: United States of America
+
+=======================================================================
+Response Time: 0.371sec
+Freebase Input:
+{"/film/film/country":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"/film/film/country": [
+"United States of America"
+], 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is the country where `` Magic in the moonlight '' origins ? 
+Answer: United States of America
+
+=======================================================================
+Response Time: 0.383sec
+Freebase Input:
+{"/film/film/country":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0y88_95", 
+"name": "Magic in the Moonlight", 
+"/film/film/country": [
+"United States of America"
+]
+}
+}
+=======================================================================
+
+Question: What is Country of origin of `` Magic in the moonlight '' ? 
+Answer: United States of America
+
+=======================================================================
+Response Time: 0.364sec
+Freebase Input:
+{"/film/film/country":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/country": [
+"United States of America"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is the trailer of `` Magic in the moonlight '' ? 
+Answer: https://www.youtube.com/watch?v=L0PzxV4oFNs
+
+=======================================================================
+Response Time: 0.392sec
+Freebase Input:
+{"/film/film/trailers":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/trailers": [
+"https://www.youtube.com/watch?v=L0PzxV4oFNs"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is `` Magic in the moonlight '' 's trailer ? 
+Answer: https://www.youtube.com/watch?v=L0PzxV4oFNs
+
+=======================================================================
+Response Time: 0.422sec
+Freebase Input:
+{"/film/film/trailers":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/trailers": [
+"https://www.youtube.com/watch?v=L0PzxV4oFNs"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is the teaser movie of `` Magic in the moonlight '' ? 
+Answer: https://www.youtube.com/watch?v=L0PzxV4oFNs
+
+=======================================================================
+Response Time: 0.399sec
+Freebase Input:
+{"/film/film/trailers":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"/film/film/trailers": [
+"https://www.youtube.com/watch?v=L0PzxV4oFNs"
+], 
+"name": "Magic in the Moonlight", 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is the url of `` Magic in the moonlight '' trailer ? 
+Answer: https://www.youtube.com/watch?v=L0PzxV4oFNs
+
+=======================================================================
+Response Time: 0.432sec
+Freebase Input:
+{"/film/film/trailers":[],"name":"Magic in the Moonlight","mid":"/m/0y88_95"}
+Freebase Response:
+{
+"result": {
+"name": "Magic in the Moonlight", 
+"/film/film/trailers": [
+"https://www.youtube.com/watch?v=L0PzxV4oFNs"
+], 
+"mid": "/m/0y88_95"
+}
+}
+=======================================================================
+
+Question: What is official website of Yonsei University ? 
+Answer: http://www.yonsei.ac.kr/
+
+=======================================================================
+Response Time: 0.375sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"name": "Yonsei University", 
+"/common/topic/official_website": [
+"http://www.yonsei.ac.kr/"
+]
+}
+}
+=======================================================================
+
+Question: What is official URL of Yonsei University ? 
+Answer: http://www.yonsei.ac.kr/
+
+=======================================================================
+Response Time: 0.39sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/common/topic/official_website": [
+"http://www.yonsei.ac.kr/"
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Where is official website of Yonsei University ? 
+Answer: http://www.yonsei.ac.kr/
+
+=======================================================================
+Response Time: 0.428sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/common/topic/official_website": [
+"http://www.yonsei.ac.kr/"
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: What is the Yonsei University 's website ? 
+Answer: http://www.yonsei.ac.kr/
+
+=======================================================================
+Response Time: 0.372sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/common/topic/official_website": [
+"http://www.yonsei.ac.kr/"
+], 
+"name": "Yonsei University", 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: What is school type of Yonsei University ? 
+Answer: Private university
+
+=======================================================================
+Response Time: 0.449sec
+Freebase Input:
+{"/education/educational_institution/school_type":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/educational_institution/school_type": [
+"Private university"
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Which is school type of Yonsei University ? 
+Answer: Private university
+
+=======================================================================
+Response Time: 0.716sec
+Freebase Input:
+{"/education/educational_institution/school_type":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/educational_institution/school_type": [
+"Private university"
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Which school type of Yonsei University is ? 
+Answer: Private university
+
+=======================================================================
+Response Time: 0.408sec
+Freebase Input:
+{"/education/educational_institution/school_type":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/school_type": [
+"Private university"
+], 
+"name": "Yonsei University", 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Do you know school type of Yonsei University ? 
+Answer: Private university
+
+=======================================================================
+Response Time: 0.381sec
+Freebase Input:
+{"/education/educational_institution/school_type":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/school_type": [
+"Private university"
+], 
+"name": "Yonsei University", 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: What is the phone number of Yonsei University ? 
+Answer: 02-2123-3486~8
+
+=======================================================================
+Response Time: 0.392sec
+Freebase Input:
+{"/education/educational_institution/phone_number":[{"/common/phone_number/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"/education/educational_institution/phone_number": [
+{
+"/common/phone_number/number": [
+"02-2123-3486~8"
+]
+}, 
+{
+"/common/phone_number/number": [
+"02-2123-4131"
+]
+}
+], 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: What is Yonsei University 's phone number ? 
+Answer: 02-2123-3486~8
+
+=======================================================================
+Response Time: 0.411sec
+Freebase Input:
+{"/education/educational_institution/phone_number":[{"/common/phone_number/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/educational_institution/phone_number": [
+{
+"/common/phone_number/number": [
+"02-2123-3486~8"
+]
+}, 
+{
+"/common/phone_number/number": [
+"02-2123-4131"
+]
+}
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: What is the phone number for Yonsei University ? 
+Answer: 02-2123-3486~8
+
+=======================================================================
+Response Time: 0.413sec
+Freebase Input:
+{"/education/educational_institution/phone_number":[{"/common/phone_number/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/educational_institution/phone_number": [
+{
+"/common/phone_number/number": [
+"02-2123-3486~8"
+]
+}, 
+{
+"/common/phone_number/number": [
+"02-2123-4131"
+]
+}
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Do you have Yonsei University 's phone number ? 
+Answer: 02-2123-3486~8
+
+=======================================================================
+Response Time: 0.407sec
+Freebase Input:
+{"/education/educational_institution/phone_number":[{"/common/phone_number/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/educational_institution/phone_number": [
+{
+"/common/phone_number/number": [
+"02-2123-3486~8"
+]
+}, 
+{
+"/common/phone_number/number": [
+"02-2123-4131"
+]
+}
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: How many total enrollments does Yonsei University have ? 
+Answer: 36453
+
+=======================================================================
+Response Time: 0.409sec
+Freebase Input:
+{"/education/educational_institution/total_enrollment":[{"/measurement_unit/dated_integer/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"name": "Yonsei University", 
+"/education/educational_institution/total_enrollment": [
+{
+"/measurement_unit/dated_integer/number": [
+36453
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: How many people enroll Yonsei University ? 
+Answer: 36453
+
+=======================================================================
+Response Time: 0.444sec
+Freebase Input:
+{"/education/educational_institution/total_enrollment":[{"/measurement_unit/dated_integer/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/total_enrollment": [
+{
+"/measurement_unit/dated_integer/number": [
+36453
+]
+}
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: What is the present enrollment of Yonsei University ? 
+Answer: 36453
+
+=======================================================================
+Response Time: 0.37sec
+Freebase Input:
+{"/education/educational_institution/total_enrollment":[{"/measurement_unit/dated_integer/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/total_enrollment": [
+{
+"/measurement_unit/dated_integer/number": [
+36453
+]
+}
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Do you know total enrollment of Yonsei University ? 
+Answer: 36453
+
+=======================================================================
+Response Time: 0.394sec
+Freebase Input:
+{"/education/educational_institution/total_enrollment":[{"/measurement_unit/dated_integer/number":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/total_enrollment": [
+{
+"/measurement_unit/dated_integer/number": [
+36453
+]
+}
+], 
+"name": "Yonsei University", 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: What is the color of Yonsei University ? 
+Answer: Royal blue
+
+=======================================================================
+Response Time: 0.418sec
+Freebase Input:
+{"/education/educational_institution/colors":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"name": "Yonsei University", 
+"/education/educational_institution/colors": [
+"Royal blue"
+]
+}
+}
+=======================================================================
+
+Question: What color represents Yonsei University ? 
+Answer: Royal blue
+
+=======================================================================
+Response Time: 0.433sec
+Freebase Input:
+{"/education/educational_institution/colors":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/educational_institution/colors": [
+"Royal blue"
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: What is the color that represents Yonsei University ? 
+Answer: Royal blue
+
+=======================================================================
+Response Time: 0.42sec
+Freebase Input:
+{"/education/educational_institution/colors":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"name": "Yonsei University", 
+"/education/educational_institution/colors": [
+"Royal blue"
+]
+}
+}
+=======================================================================
+
+Question: What is color for Yonsei University ? 
+Answer: Royal blue
+
+=======================================================================
+Response Time: 0.387sec
+Freebase Input:
+{"/education/educational_institution/colors":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/colors": [
+"Royal blue"
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: What is mascot of Yonsei University ? 
+Answer: Yonsei Eagle
+
+=======================================================================
+Response Time: 0.431sec
+Freebase Input:
+{"/education/educational_institution/mascot":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"mid": "/m/03kwls", 
+"/education/educational_institution/mascot": [
+"Yonsei Eagle"
+]
+}
+}
+=======================================================================
+
+Question: What is Yonsei University 's mascot ? 
+Answer: Yonsei Eagle
+
+=======================================================================
+Response Time: 0.388sec
+Freebase Input:
+{"/education/educational_institution/mascot":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/mascot": [
+"Yonsei Eagle"
+], 
+"name": "Yonsei University", 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Which mascot does Yonsei University uses ? 
+Answer: Yonsei Eagle
+
+=======================================================================
+Response Time: 0.435sec
+Freebase Input:
+{"/education/educational_institution/mascot":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/mascot": [
+"Yonsei Eagle"
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Do you know the mascot for Yonsei University ? 
+Answer: Yonsei Eagle
+
+=======================================================================
+Response Time: 0.454sec
+Freebase Input:
+{"/education/educational_institution/mascot":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/educational_institution/mascot": [
+"Yonsei Eagle"
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Who founded Yonsei University ? 
+Answer: Horace Grant Underwood
+
+=======================================================================
+Response Time: 0.383sec
+Freebase Input:
+{"/organization/organization/founders":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"/organization/organization/founders": [
+"Horace Grant Underwood"
+], 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Who are the Founders of Yonsei University ? 
+Answer: Horace Grant Underwood
+
+=======================================================================
+Response Time: 0.362sec
+Freebase Input:
+{"/organization/organization/founders":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/organization/organization/founders": [
+"Horace Grant Underwood"
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Who is the person that founded Yonsei University ? 
+Answer: Horace Grant Underwood
+
+=======================================================================
+Response Time: 0.46sec
+Freebase Input:
+{"/organization/organization/founders":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"/organization/organization/founders": [
+"Horace Grant Underwood"
+], 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Do you know who founded Yonsei University ? 
+Answer: Horace Grant Underwood
+
+=======================================================================
+Response Time: 0.403sec
+Freebase Input:
+{"/organization/organization/founders":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/organization/organization/founders": [
+"Horace Grant Underwood"
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Who is the leadership of Yonsei University ? 
+Answer: Han-Joong  Kim
+
+=======================================================================
+Response Time: 0.382sec
+Freebase Input:
+{"/organization/organization/leadership":[{"/organization/leadership/person":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/organization/organization/leadership": [
+{
+"/organization/leadership/person": [
+"Han-Joong  Kim"
+]
+}
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Who is the president of Yonsei University ? 
+Answer: Han-Joong  Kim
+
+=======================================================================
+Response Time: 0.397sec
+Freebase Input:
+{"/organization/organization/leadership":[{"/organization/leadership/person":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/organization/organization/leadership": [
+{
+"/organization/leadership/person": [
+"Han-Joong  Kim"
+]
+}
+], 
+"name": "Yonsei University", 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Who is in charge of Yonsei University 's President ? 
+Answer: Han-Joong  Kim
+
+=======================================================================
+Response Time: 0.396sec
+Freebase Input:
+{"/organization/organization/leadership":[{"/organization/leadership/person":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/organization/organization/leadership": [
+{
+"/organization/leadership/person": [
+"Han-Joong  Kim"
+]
+}
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Who is in charge of Yonsei University 's leadership ? 
+Answer: Han-Joong  Kim
+
+=======================================================================
+Response Time: 0.379sec
+Freebase Input:
+{"/organization/organization/leadership":[{"/organization/leadership/person":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"mid": "/m/03kwls", 
+"/organization/organization/leadership": [
+{
+"/organization/leadership/person": [
+"Han-Joong  Kim"
+]
+}
+]
+}
+}
+=======================================================================
+
+Question: How much is the tuition of Yonsei University ? 
+Answer: 4536000.000000
+
+=======================================================================
+Response Time: 0.404sec
+Freebase Input:
+{"/education/university/domestic_tuition":[{"/measurement_unit/dated_money_value/amount":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/university/domestic_tuition": [
+{
+"/measurement_unit/dated_money_value/amount": [
+4536000.0
+]
+}
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: What is the tuition of Yonsei University ? 
+Answer: 4536000.000000
+
+=======================================================================
+Response Time: 0.371sec
+Freebase Input:
+{"/education/university/domestic_tuition":[{"/measurement_unit/dated_money_value/amount":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/university/domestic_tuition": [
+{
+"/measurement_unit/dated_money_value/amount": [
+4536000.0
+]
+}
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: How much is Yonsei University 's tuition fee ? 
+Answer: 4536000.000000
+
+=======================================================================
+Response Time: 0.426sec
+Freebase Input:
+{"/education/university/domestic_tuition":[{"/measurement_unit/dated_money_value/amount":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"/education/university/domestic_tuition": [
+{
+"/measurement_unit/dated_money_value/amount": [
+4536000.0
+]
+}
+], 
+"mid": "/m/03kwls", 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Do you know domestic tuition of Yonsei University ? 
+Answer: 4536000.000000
+
+=======================================================================
+Response Time: 0.756sec
+Freebase Input:
+{"/education/university/domestic_tuition":[{"/measurement_unit/dated_money_value/amount":[]}],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"/education/university/domestic_tuition": [
+{
+"/measurement_unit/dated_money_value/amount": [
+4536000.0
+]
+}
+], 
+"mid": "/m/03kwls"
+}
+}
+=======================================================================
+
+Question: Where is Yonsei University Contained by ? 
+Answer: South Korea/Seoul
+
+=======================================================================
+Response Time: 0.409sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"/location/location/containedby": [
+"South Korea", 
+"Seoul"
+], 
+"name": "Yonsei University"
+}
+}
+=======================================================================
+
+Question: Where is Yonsei University ? 
+Answer: South Korea/Seoul
+
+=======================================================================
+Response Time: 0.417sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"name": "Yonsei University", 
+"mid": "/m/03kwls", 
+"/location/location/containedby": [
+"South Korea", 
+"Seoul"
+]
+}
+}
+=======================================================================
+
+Question: Where is Yonsei University located ? 
+Answer: South Korea/Seoul
+
+=======================================================================
+Response Time: 0.433sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"name": "Yonsei University", 
+"/location/location/containedby": [
+"South Korea", 
+"Seoul"
+]
+}
+}
+=======================================================================
+
+Question: Which country is Yonsei University Contained by ? 
+Answer: South Korea/Seoul
+
+=======================================================================
+Response Time: 0.41sec
+Freebase Input:
+{"/location/location/containedby":[],"name":"Yonsei University","mid":"/m/03kwls"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/03kwls", 
+"name": "Yonsei University", 
+"/location/location/containedby": [
+"South Korea", 
+"Seoul"
+]
+}
+}
+=======================================================================
+
+Question: What is the movie about New York Yankees ? 
+Answer: Damn Yankees
+
+=======================================================================
+Response Time: 0.429sec
+Freebase Input:
+{"/film/film_subject/films":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/film/film_subject/films": [
+"Damn Yankees"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: What is the film on New York Yankees ? 
+Answer: Damn Yankees
+
+=======================================================================
+Response Time: 1.399sec
+Freebase Input:
+{"/film/film_subject/films":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"/film/film_subject/films": [
+"Damn Yankees"
+], 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: Which movie is about New York Yankees ? 
+Answer: Damn Yankees
+
+=======================================================================
+Response Time: 0.409sec
+Freebase Input:
+{"/film/film_subject/films":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"/film/film_subject/films": [
+"Damn Yankees"
+], 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: What movie does New York Yankees appear ? 
+Answer: Damn Yankees
+
+=======================================================================
+Response Time: 0.368sec
+Freebase Input:
+{"/film/film_subject/films":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/film/film_subject/films": [
+"Damn Yankees"
+]
+}
+}
+=======================================================================
+
+Question: Who is supplier of New York Yankees ? 
+Answer: 4INFO
+
+=======================================================================
+Response Time: 0.389sec
+Freebase Input:
+{"/business/customer/supplier":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/business/customer/supplier": [
+"4INFO"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: Who supplies New York Yankees ? 
+Answer: 4INFO
+
+=======================================================================
+Response Time: 0.471sec
+Freebase Input:
+{"/business/customer/supplier":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/business/customer/supplier": [
+"4INFO"
+]
+}
+}
+=======================================================================
+
+Question: Which corporation is supplier of New York Yankees ? 
+Answer: 4INFO
+
+=======================================================================
+Response Time: 0.385sec
+Freebase Input:
+{"/business/customer/supplier":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/business/customer/supplier": [
+"4INFO"
+]
+}
+}
+=======================================================================
+
+Question: Who funded New York Yankees ? 
+Answer: 4INFO
+
+=======================================================================
+Response Time: 0.387sec
+Freebase Input:
+{"/business/customer/supplier":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/business/customer/supplier": [
+"4INFO"
+]
+}
+}
+=======================================================================
+
+Question: What kind of sport does New York Yankees play ? 
+Answer: Baseball
+
+=======================================================================
+Response Time: 0.398sec
+Freebase Input:
+{"/sports/sports_team/sport":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/sports/sports_team/sport": [
+"Baseball"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: What is the sport that New York Yankees plays ? 
+Answer: Baseball
+
+=======================================================================
+Response Time: 0.395sec
+Freebase Input:
+{"/sports/sports_team/sport":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/sports/sports_team/sport": [
+"Baseball"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: Which sport does New York Yankees play ? 
+Answer: Baseball
+
+=======================================================================
+Response Time: 0.36sec
+Freebase Input:
+{"/sports/sports_team/sport":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/sports/sports_team/sport": [
+"Baseball"
+]
+}
+}
+=======================================================================
+
+Question: Which sport is New York Yankees ? 
+Answer: Baseball
+
+=======================================================================
+Response Time: 0.507sec
+Freebase Input:
+{"/sports/sports_team/sport":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/sports/sports_team/sport": [
+"Baseball"
+]
+}
+}
+=======================================================================
+
+Question: Where is the Sports Team location of New York Yankees ? 
+Answer: The Bronx/New York City
+
+=======================================================================
+Response Time: 0.442sec
+Freebase Input:
+{"/sports/sports_team/location":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/sports/sports_team/location": [
+"The Bronx", 
+"New York City"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: Where is New York Yankees ' location ? 
+Answer: The Bronx/New York City
+
+=======================================================================
+Response Time: 0.437sec
+Freebase Input:
+{"/sports/sports_team/location":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/sports_team/location": [
+"The Bronx", 
+"New York City"
+]
+}
+}
+=======================================================================
+
+Question: Where is New York Yankees located ? 
+Answer: The Bronx/New York City
+
+=======================================================================
+Response Time: 0.434sec
+Freebase Input:
+{"/sports/sports_team/location":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/sports_team/location": [
+"The Bronx", 
+"New York City"
+]
+}
+}
+=======================================================================
+
+Question: Do you know where the New York Yankees is located ? 
+Answer: The Bronx/New York City
+
+=======================================================================
+Response Time: 0.424sec
+Freebase Input:
+{"/sports/sports_team/location":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/sports_team/location": [
+"The Bronx", 
+"New York City"
+]
+}
+}
+=======================================================================
+
+Question: When was New York Yankees founded ? 
+Answer: 1901
+
+=======================================================================
+Response Time: 0.646sec
+Freebase Input:
+{"/sports/sports_team/founded":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"/sports/sports_team/founded": [
+"1901"
+], 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: What year is New York Yankees founded ? 
+Answer: 1901
+
+=======================================================================
+Response Time: 1.531sec
+Freebase Input:
+{"/sports/sports_team/founded":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/sports/sports_team/founded": [
+"1901"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: What is the year of foundation of New York Yankees ? 
+Answer: 1901
+
+=======================================================================
+Response Time: 1.002sec
+Freebase Input:
+{"/sports/sports_team/founded":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/sports_team/founded": [
+"1901"
+], 
+"mid": "/m/0cqt41", 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: When was New York Yankees established ? 
+Answer: 1901
+
+=======================================================================
+Response Time: 1.072sec
+Freebase Input:
+{"/sports/sports_team/founded":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/sports_team/founded": [
+"1901"
+]
+}
+}
+=======================================================================
+
+Question: What are the colors of New York Yankees ? 
+Answer: Blue/White/Grey
+
+=======================================================================
+Response Time: 0.439sec
+Freebase Input:
+{"/sports/sports_team/colors":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/sports_team/colors": [
+"Blue", 
+"White", 
+"Grey"
+], 
+"mid": "/m/0cqt41", 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: What color represents New York Yankees ? 
+Answer: Blue/White/Grey
+
+=======================================================================
+Response Time: 0.609sec
+Freebase Input:
+{"/sports/sports_team/colors":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/sports_team/colors": [
+"Blue", 
+"White", 
+"Grey"
+], 
+"name": "New York Yankees", 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: What is the color that represents New York Yankees ? 
+Answer: Blue/White/Grey
+
+=======================================================================
+Response Time: 0.41sec
+Freebase Input:
+{"/sports/sports_team/colors":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/sports/sports_team/colors": [
+"Blue", 
+"White", 
+"Grey"
+]
+}
+}
+=======================================================================
+
+Question: What is the color for New York Yankees ? 
+Answer: Blue/White/Grey
+
+=======================================================================
+Response Time: 0.43sec
+Freebase Input:
+{"/sports/sports_team/colors":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/sports_team/colors": [
+"Blue", 
+"White", 
+"Grey"
+]
+}
+}
+=======================================================================
+
+Question: What is stadium of New York Yankees ? 
+Answer: Yankee Stadium
+
+=======================================================================
+Response Time: 0.402sec
+Freebase Input:
+{"/sports/sports_team/arena_stadium":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/sports_team/arena_stadium": [
+"Yankee Stadium"
+], 
+"name": "New York Yankees", 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: What is arena of New York Yankees ? 
+Answer: Yankee Stadium
+
+=======================================================================
+Response Time: 0.421sec
+Freebase Input:
+{"/sports/sports_team/arena_stadium":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/sports_team/arena_stadium": [
+"Yankee Stadium"
+]
+}
+}
+=======================================================================
+
+Question: What is New York Yankees ' stadium ? 
+Answer: Yankee Stadium
+
+=======================================================================
+Response Time: 0.437sec
+Freebase Input:
+{"/sports/sports_team/arena_stadium":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"/sports/sports_team/arena_stadium": [
+"Yankee Stadium"
+], 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: Which stadium is belong to New York Yankees ? 
+Answer: Yankee Stadium
+
+=======================================================================
+Response Time: 0.796sec
+Freebase Input:
+{"/sports/sports_team/arena_stadium":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/sports/sports_team/arena_stadium": [
+"Yankee Stadium"
+]
+}
+}
+=======================================================================
+
+Question: Which teams does the New York Yankees own ? 
+Answer: Tampa Yankees/New York City FC
+
+=======================================================================
+Response Time: 0.412sec
+Freebase Input:
+{"/sports/sports_team_owner/teams_owned":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/sports_team_owner/teams_owned": [
+"Tampa Yankees", 
+"New York City FC"
+], 
+"name": "New York Yankees", 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: Which teams belong to the New York Yankees ? 
+Answer: Tampa Yankees/New York City FC
+
+=======================================================================
+Response Time: 0.437sec
+Freebase Input:
+{"/sports/sports_team_owner/teams_owned":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/sports_team_owner/teams_owned": [
+"Tampa Yankees", 
+"New York City FC"
+], 
+"name": "New York Yankees", 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: Which teams are owned by the New York Yankees ? 
+Answer: Tampa Yankees/New York City FC
+
+=======================================================================
+Response Time: 0.357sec
+Freebase Input:
+{"/sports/sports_team_owner/teams_owned":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/sports/sports_team_owner/teams_owned": [
+"Tampa Yankees", 
+"New York City FC"
+]
+}
+}
+=======================================================================
+
+Question: Which teams does the New York Yankees possess ? 
+Answer: Tampa Yankees/New York City FC
+
+=======================================================================
+Response Time: 0.429sec
+Freebase Input:
+{"/sports/sports_team_owner/teams_owned":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/sports/sports_team_owner/teams_owned": [
+"Tampa Yankees", 
+"New York City FC"
+]
+}
+}
+=======================================================================
+
+Question: Which league does New York Yankees belong to ? 
+Answer: American League
+
+=======================================================================
+Response Time: 0.367sec
+Freebase Input:
+{"/baseball/baseball_team/league":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/baseball/baseball_team/league": [
+"American League"
+]
+}
+}
+=======================================================================
+
+Question: What is New York Yankees ' league ? 
+Answer: American League
+
+=======================================================================
+Response Time: 0.415sec
+Freebase Input:
+{"/baseball/baseball_team/league":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/baseball/baseball_team/league": [
+"American League"
+]
+}
+}
+=======================================================================
+
+Question: What is the league New York Yankees belongs to ? 
+Answer: American League
+
+=======================================================================
+Response Time: 0.379sec
+Freebase Input:
+{"/baseball/baseball_team/league":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/baseball/baseball_team/league": [
+"American League"
+], 
+"mid": "/m/0cqt41", 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: What is the league New York Yankees in ? 
+Answer: American League
+
+=======================================================================
+Response Time: 0.363sec
+Freebase Input:
+{"/baseball/baseball_team/league":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"name": "New York Yankees", 
+"mid": "/m/0cqt41", 
+"/baseball/baseball_team/league": [
+"American League"
+]
+}
+}
+=======================================================================
+
+Question: Who owns New York Yankees ? 
+Answer: George Steinbrenner
+
+=======================================================================
+Response Time: 0.348sec
+Freebase Input:
+{"/sports/professional_sports_team/owner_s":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/professional_sports_team/owner_s": [
+"George Steinbrenner"
+]
+}
+}
+=======================================================================
+
+Question: Who is the owner of New York Yankees ? 
+Answer: George Steinbrenner
+
+=======================================================================
+Response Time: 0.439sec
+Freebase Input:
+{"/sports/professional_sports_team/owner_s":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/professional_sports_team/owner_s": [
+"George Steinbrenner"
+], 
+"mid": "/m/0cqt41", 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: Who is the possessor of New York Yankees ? 
+Answer: George Steinbrenner
+
+=======================================================================
+Response Time: 0.378sec
+Freebase Input:
+{"/sports/professional_sports_team/owner_s":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/sports/professional_sports_team/owner_s": [
+"George Steinbrenner"
+], 
+"mid": "/m/0cqt41", 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: Do you know the owner of New York Yankees ? 
+Answer: George Steinbrenner
+
+=======================================================================
+Response Time: 0.386sec
+Freebase Input:
+{"/sports/professional_sports_team/owner_s":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/sports/professional_sports_team/owner_s": [
+"George Steinbrenner"
+]
+}
+}
+=======================================================================
+
+Question: What is official website of New York Yankees ? 
+Answer: http://newyork.yankees.mlb.com/index.jsp?c_id=nyy
+
+=======================================================================
+Response Time: 0.352sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/common/topic/official_website": [
+"http://newyork.yankees.mlb.com/index.jsp?c_id=nyy"
+], 
+"name": "New York Yankees", 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: What is official URL of New York Yankees ? 
+Answer: http://newyork.yankees.mlb.com/index.jsp?c_id=nyy
+
+=======================================================================
+Response Time: 0.72sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/common/topic/official_website": [
+"http://newyork.yankees.mlb.com/index.jsp?c_id=nyy"
+], 
+"name": "New York Yankees", 
+"mid": "/m/0cqt41"
+}
+}
+=======================================================================
+
+Question: Where is official website New York Yankees ? 
+Answer: http://newyork.yankees.mlb.com/index.jsp?c_id=nyy
+
+=======================================================================
+Response Time: 0.426sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"/common/topic/official_website": [
+"http://newyork.yankees.mlb.com/index.jsp?c_id=nyy"
+], 
+"mid": "/m/0cqt41", 
+"name": "New York Yankees"
+}
+}
+=======================================================================
+
+Question: What is the New York Yankees ' website ? 
+Answer: http://newyork.yankees.mlb.com/index.jsp?c_id=nyy
+
+=======================================================================
+Response Time: 0.353sec
+Freebase Input:
+{"/common/topic/official_website":[],"name":"New York Yankees","mid":"/m/0cqt41"}
+Freebase Response:
+{
+"result": {
+"mid": "/m/0cqt41", 
+"name": "New York Yankees", 
+"/common/topic/official_website": [
+"http://newyork.yankees.mlb.com/index.jsp?c_id=nyy"
+]
+}
+}
+=======================================================================
+
