@@ -11,7 +11,7 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
 - Database: FreeBase ( 5 entities, 15 properties each )
 - Library: Stanford CoreNLP, Freebase API, CURL, JSON
  
- *현재 FreeBase는 구글에 인수된 상태로 운영을 중단하였다. 따라서, 본 시스템을 구현했을 때와 현재(2018.03) freebase에서 데이터를 제공하는 방식이 다르지만, 여전히 개발자들을 위해 DB dump와 API는 제공해주고 있다.
+> *현재 FreeBase는 구글에 인수된 상태로 운영을 중단하였다. 따라서, 본 시스템을 구현했을 때와 현재(2018.03) freebase에서 데이터를 제공하는 방식이 다르지만, 여전히 개발자들을 위해 DB dump와 API는 제공해주고 있다.*
  
 ### Process
    [1. Select Entities and Properties from FreeBase](#1-select-entities-and-properties-from-freebase)
