@@ -39,15 +39,12 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
 
 또한, 이후 자연어처리 모듈 구현 과정에서 사용할 [질문set](/questions.txt)을 만들었다.
 
-'''
- 예를 들어, 앤드류 가필드의 여자친구가 누구인지를 알고싶다면 다음과 같이 여러 형태로 물어볼 수 있다. 이 모든 경우에도 답할 수 있도록 미리 질문set을 만들어놓아 대응할 수 있도록 구현하였다.
-    
-    "Who is Andrew Garfield's partner?"
-
-    "Who have been going out with Andrew Garfield?"
-    
-    "Who have been dating Andrew Garfield?"
-'''   
+> 예를 들어, 앤드류 가필드의 여자친구가 누구인지를 알고싶다면 다음과 같이 여러 형태로 물어볼 수 있다. 이 모든 경우에도 답할 수 있도록 미리 질문set을 만들어놓아 대응할 수 있도록 구현하였다.
+>   '''
+>    Who is Andrew Garfield's partner?
+>    Who have been going out with Andrew Garfield?
+>    Who have been dating Andrew Garfield?
+>   '''   
 
 ## 2. Implement Natural Language Processing Module
 
@@ -69,7 +66,7 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
  - 문장 내의 구성 성분 간의 관계를 이용하여 다양한 활용이 가능하다.
  
  <p align="center">
-   <img src="screenshots/QAoverview.png" width="80%"></img>
+   <img src="screenshots/stanfordNLP.png" width="60%"></img>
 </p>
 
 ## 3. Implement Question Normalization Module
