@@ -46,27 +46,24 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
 ## 2. Implement Natural Language Processing Module
 
 사용자로부터 들어온 자연어 형태의 질문의 의미를 분석하기 위해 단어의 품사를 분석(POS-tagging)하고, 문장내의 개체명을 인식(Named Entity Recognition)하고, 문장 구조를 분석(Parsing)해야 한다.
+
 본 프로젝트에서는 Stanford CoreNLP를 사용하여 진행하였다. Stanford CoreNLP 라이브러리를 사용하면 질문(input)에 대한 결과를 xml 파일(output)로 생성되는데, 라이브러리 libxml2를 사용하여 프로그램 내에서 xml 파일 정보를 로딩한다.
 
  ### POS-Tagging
-   - 품사(Part-of-speech: 각 단어가 속한 유형)
-   
-   - 각 단어의 적합한 품사를 부착한다.
-  
-   - 아래 표에서 POS부분을 확인하면 된다.
+ - 품사(Part-of-speech: 각 단어가 속한 유형)
+ - 각 단어의 적합한 품사를 부착한다.
+ - 아래 표에서 POS부분을 확인하면 된다.
    
  ### NER (Named Entity Recognition)
-   - 인명, 지명, 기관명 등과 같은 개체명 인식 및 분류에 적합한 태그를 부착한다. 주로 명사나, 고유 명사를 후보로 한다.
-   
-   - 아래 표에서 NER부분을 확인하면 된다.
+ - 인명, 지명, 기관명 등과 같은 개체명 인식 및 분류에 적합한 태그를 부착한다. 주로 명사나, 고유 명사를 후보로 한다.
+ - 아래 표에서 NER부분을 확인하면 된다.
  
  ### Parsing
-   - 문장을 이루고 있는 구성 성분으로 분해하고, 그들 사이의 구조적 관계를 분석하여 문장의 구조를 결정한다.
-   
-   - 문장 내의 구성 성분 간의 관계를 이용하여 다양한 활용이 가능하다.
-   
+ - 문장을 이루고 있는 구성 성분으로 분해하고, 그들 사이의 구조적 관계를 분석하여 문장의 구조를 결정한다.
+ - 문장 내의 구성 성분 간의 관계를 이용하여 다양한 활용이 가능하다.
+ 
 <p align="center">
- <img scr="screenshots/stanfordNLP.png" width="60%"></img>
+ <img scr="screenshots/stanfordNLP.png"></img>
 </p>
 
 ## 3. Implement Question Normalization Module
