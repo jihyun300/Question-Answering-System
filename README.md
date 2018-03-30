@@ -78,7 +78,8 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
 
 Freebase로 날릴 쿼리의 형태는 위 그림과 같다. 쿼리에서 보이다시피, 우리는 질문 대상(subject)과 질문의 술부(predicate)를 인식해야 쿼리를 완성할 수 있다.
 ```
-아래 예시에서 질문의 대상인 "Andrew Garfield"를 통해 쿼리에서 "name" 부분과 "mid" 부분을 채울 수 있으며, 술부인 "When, give, birth"로 쿼리의 property 부분을 채울 수 있다.
+아래 예시에서 질문의 대상인 "Andrew Garfield"를 통해 쿼리에서 "name" 부분과 "mid" 부분을 채울 수 있으며, 
+술부인 "When, give, birth"로 쿼리의 property 부분을 채울 수 있다.
 ```
 ### 질문 내의 대상 인식
 질문 내의 대상을 인식할 때의 문제점은 질문의 대상이 다양한 형태로 표기될 수 있다는 점이다. 따라서, entity 표기에 대한 사전을 미리 구축하고 명확한 지정을 위하여 아이디(mid)를 사용한다. 
@@ -92,13 +93,13 @@ Freebase로 날릴 쿼리의 형태는 위 그림과 같다. 쿼리에서 보이
 들어온 질문이 어떤 것을 묻고 있는지를 파악하는 지가 본 프로젝트의 핵심이다. 
 우리는 질문의 핵심이 되는 단어들을 추출해내고, 이 핵심 단어들이 미리 만들어 놓은 keyword 테이블과 가장 많이 겹치는 property를 가져올 것이다.
 ```
-예를 들어, "**When** was Andrew Garfield born?" 이라는 질문이 들어왔을 때, born 단어 정보로는 충분하지 않다. 
-만약 born 단어만 활용한다면, "**Where** was Andrew Garfield born?" 라는 질문이 들어왔을 때와 비교가 불가능하기 때문이다. 
+예를 들어, " **When** was Andrew Garfield born?" 이라는 질문이 들어왔을 때, born 단어 정보로는 충분하지 않다. 
+만약 born 단어만 활용한다면, " **Where** was Andrew Garfield born?" 라는 질문이 들어왔을 때와 비교가 불가능하기 때문이다. 
 따라서, 이 경우에는 "When"과 "born"을 핵심 단어로 추출해야만 property인 "date_of_birth"를 얻을 수 있을 것이다.
 ```
 우리는 시작 의문사를 기준으로 case를 나누고, 각각 세부적인 룰을 적용하여 각 문장의 핵심이 되는 단어를 추출하였다. 기본적으로는 단어 간 의존관계 정보를 활용하여 최대한 모든 경우에 대해 대응할 수 있도록 구현하였다. 또한, key가 중복 추출되었다는 것은 그만큼 여러 rule에 적용되어 중요한 단어일 확률이 크다고 판단하여, 이러한 key에는 추가적으로 weight을 주었다.
 
-우리의 정규화 알고리즘으로 추출한 각 단어의 핵심 단어들은 </extractedKey.txt>이며, 각각의 구체적인 룰은 함수 source.cpp/normalization(bool) 내에서 확인해 볼 수 있다.
+우리의 정규화 알고리즘으로 추출한 각 단어의 핵심 단어들은 [extractedKey](/extractedKey.txt)이며, 각각의 구체적인 룰은 함수 source.cpp/normalization(bool) 내에서 확인해 볼 수 있다.
 
 위 자연어처리모듈 구현 파트에서 든 예시 "When did Andrew Garfield give birth?"에 대해서 구체적으로 설명해보자.
 
@@ -107,6 +108,13 @@ Freebase로 날릴 쿼리의 형태는 위 그림과 같다. 쿼리에서 보이
 기본적으로 의문사는 핵심 key에 포함되므로, 결과적으로 table과 비교하게 될 문자열들은 **{“what”, “give”, “birth”}** 이다. 이것과 가장 많이 매치된 property는 “/people/person/date_of_birth”이다. - match 단어 수: 3 - ([Keyword 테이블](/Keywords_new.txt) 참고)
 
 무슨 말인지 1도 알아 듣지 못하겠다면, 그게 정상이다. 몇 날 밤낮을 새서 손수 노가다로 룰을 찾아낸 것이기 때문에 이해하지 못할 수준인 것을 안다. 이 시스템을 구현할 때까지만 해도 딥러닝이니 뭐니 그런거 안 가르쳐줬다...ㅠㅠ
+
 ## 4. Load Question Answer
+<p align="center">
+ <img src="screenshots/query_result.png" width="60%"></img>
+</p>
+이제 위에서 정규화한 질문을 Freebase API를 통해 정답을 가져오자.
+정규화된 질문은 라이브러리 curl을 이용해 Freebase API에 요청을 한다. API에서 리턴된 json형식의 값을 rapidjson 라이브러리를 이용해 파싱 한 후, 정답을 화면에 출력한다.
 
 ## 5. Result
+우리는 각 질문당 평균 0.004초 대의 response를 보였고, 212개의 질문에 대하여 92%이상의 정답률을 기록하였다. 대부분 질문을 모호하게 했을 때, 잘못된 정답을 출력하는 것을 확인하였다. 또한, 질문set에 없는 질문을 던졌을 때(Demo)의 성능은 80% 정도를 보였다.
