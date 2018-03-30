@@ -1,0 +1,648 @@
+Question: When is Andrew Garfield 's birthday ? 
+Selected Key: when / birthday / birthday / 
+
+Question: When was Andrew Garfield born ? 
+Selected Key: when / born / 
+
+Question: Do you know when Andrew Garfield 's birthday is ? 
+Selected Key: when / birthday / 
+
+Question: When did Andrew Garfield give birth ? 
+Selected Key: when / give / birth / 
+
+Question: Where was Andrew Garfield born ? 
+Selected Key: where / born / 
+
+Question: Where is Andrew Garfield 's hometown ? 
+Selected Key: where / hometown / hometown / 
+
+Question: What is the city where Andrew Garfield born ? 
+Selected Key: what / city / born / 
+
+Question: Do you know where Andrew Garfield was born ? 
+Selected Key: where / born / 
+
+Question: What is Andrew Garfield 's ethnicity ? 
+Selected Key: what / ethnicity / 
+
+Question: What is Andrew Garfield 's ethnic origin ? 
+Selected Key: what / origin / ethnic / 
+
+Question: What is Andrew Garfield 's ethnic group ? 
+Selected Key: what / group / ethnic / 
+
+Question: Do you know what Andrew Garfield 's ethnicity is ? 
+Selected Key: what / ethnicity / 
+
+Question: Who is Andrew Garfield 's spouse ? 
+Selected Key: who / spouse / 
+
+Question: Who is Andrew Garfield 's partner ? 
+Selected Key: who / partner / 
+
+Question: Who have been going out with Andrew Garfield ? 
+Selected Key: who / going / 
+
+Question: Who have been dating Andrew Garfield ? 
+Selected Key: who / dating / 
+
+Question: What gender is Andrew Garfield ? 
+Selected Key: what / gender / 
+
+Question: What is Andrew Garfield 's gender ? 
+Selected Key: what / gender / 
+
+Question: Is Andrew Garfield male or female ? 
+Selected Key: male / female / 
+
+Question: What sex is Andrew Garfield ? 
+Selected Key: what / sex / 
+
+Question: What is Andrew Garfield 's profession ? 
+Selected Key: what / profession / 
+
+Question: What is Andrew Garfield 's job ? 
+Selected Key: what / job / 
+
+Question: What does Andrew Garfield do for a living ? 
+Selected Key: what / do / living / 
+
+Question: What is Andrew Garfield 's work ? 
+Selected Key: what / work / 
+
+Question: What is Andrew Garfield 's nationality ? 
+Selected Key: what / nationality / 
+
+Question: What is Andrew Garfield 's citizenship ? 
+Selected Key: what / citizenship / 
+
+Question: What nationality is Andrew Garfield ? 
+Selected Key: what / nationality / 
+
+Question: What citizenship is Andrew Garfield ? 
+Selected Key: what / citizenship / 
+
+Question: What is Andrew Garfield 's religion ? 
+Selected Key: what / religion / 
+
+Question: What religion Andrew Garfield has ? 
+Selected Key: what / religion / 
+
+Question: What is Andrew Garfield 's religious faith ? 
+Selected Key: what / faith / religious / 
+
+Question: What religion does Andrew Garfield belong to ? 
+Selected Key: what / belong / religion / 
+
+Question: What is Andrew Garfield 's height ? 
+Selected Key: what / height / 
+
+Question: How tall is Andrew Garfield ? 
+Selected Key: how / is / 
+
+Question: Do you know what Andrew Garfield 's height is ? 
+Selected Key: what / height / 
+
+Question: Do you know how tall Andrew Garfield is ? 
+Selected Key: how / tall / 
+
+Question: Where did Andrew Garfield live in his past life ? 
+Selected Key: where / live / life / past / past / 
+
+Question: Where was Andrew Garfield in a past life ? 
+Selected Key: where / past / 
+
+Question: What city did Andrew Garfield live ? 
+Selected Key: what / live / city / 
+
+Question: What city did Andrew Garfield grow up in ? 
+Selected Key: what / grow / city / 
+
+Question: What school did Andrew Garfield go to ? 
+Selected Key: what / go / school / 
+
+Question: What school did Andrew Garfield graduate from ? 
+Selected Key: what / school / did / school / graduate / 
+
+Question: Where did Andrew Garfield get an education ? 
+Selected Key: where / get / education / 
+
+Question: Where was Andrew Garfield educated in ? 
+Selected Key: where / educated / 
+
+Question: Where is Laos capital located ? 
+Selected Key: where / located / capital / 
+
+Question: What city is Laos capital located ? 
+Selected Key: what / located / city / capital / 
+
+Question: What is the capital of Laos ? 
+Selected Key: what / capital / 
+
+Question: Do you know the capital of Laos ? 
+Selected Key: capital / 
+
+Question: What is Laos 's official language ? 
+Selected Key: what / language / official / 
+
+Question: What language is the official of Laos ? 
+Selected Key: what / language / official / official / 
+
+Question: What official language is used in Laos ? 
+Selected Key: what / used / language / official / 
+
+Question: Do you know the official language of Laos ? 
+Selected Key: language / official / 
+
+Question: Which currency is used in Laos ? 
+Selected Key: which / currency / used / currency / 
+
+Question: What kind of currency is used in Laos ? 
+Selected Key: what / used / kind / currency / 
+
+Question: What currency does Laos use ? 
+Selected Key: what / use / currency / 
+
+Question: What currency do they use in Laos ? 
+Selected Key: what / they / use / currency / 
+
+Question: What languages are spoken in Laos ? 
+Selected Key: what / spoken / languages / 
+
+Question: What languages does Laos speak ? 
+Selected Key: what / speak / languages / 
+
+Question: What languages are used in Laos ? 
+Selected Key: what / used / languages / 
+
+Question: Which languages are used in Laos ? 
+Selected Key: which / languages / used / languages / 
+
+Question: What is Laos 's Calling code ? 
+Selected Key: what / code / 
+
+Question: What is Laos 's Telephone country code ? 
+Selected Key: what / code / country / 
+
+Question: How to call a Laos ? 
+Selected Key: how / call / 
+
+Question: What is phone code of Laos ? 
+Selected Key: what / code / phone / 
+
+Question: Where is Laos located ? 
+Selected Key: where / located / 
+
+Question: What is Laos 's geolocation ? 
+Selected Key: what / geolocation / 
+
+Question: What are latitude and longitude of Laos ? 
+Selected Key: what / latitude / longitude / 
+
+Question: Do you know where Laos is ? 
+Selected Key: where / 
+
+Question: What is the area of Laos ? 
+Selected Key: what / area / 
+
+Question: How large is Laos ? 
+Selected Key: how / is / 
+
+Question: What is the Laos 's area ? 
+Selected Key: what / area / 
+
+Question: Do you know the area of Laos ? 
+Selected Key: area / 
+
+Question: What continent is Laos contained by ? 
+Selected Key: what / contained / continent / 
+
+Question: Which continent is Laos located ? 
+Selected Key: which / located / continent / 
+
+Question: Where is Laos contained by ? 
+Selected Key: where / contained / 
+
+Question: What continent is Laos in ? 
+Selected Key: what / continent / continent / 
+
+Question: What are Laos 's religions ? 
+Selected Key: what / religions / 
+
+Question: What religions Laos are ? 
+Selected Key: what / religions / are / religions / 
+
+Question: What are Laos 's religious faiths ? 
+Selected Key: what / faiths / religious / 
+
+Question: What religions does Laos belong to ? 
+Selected Key: what / belong / religions / 
+
+Question: What are Laos 's major exports ? 
+Selected Key: what / exports / major / 
+
+Question: What does Laos export mainly ? 
+Selected Key: what / export / 
+
+Question: What are Laos 's main products which are exported ? 
+Selected Key: what / products / main / exported / 
+
+Question: What products are mainly exported in Laos ? 
+Selected Key: what / exported / products / 
+
+Question: When was Laos founded ? 
+Selected Key: when / founded / 
+
+Question: What date is Laos founded ? 
+Selected Key: what / founded / date / 
+
+Question: What is the date of foundation of Laos ? 
+Selected Key: what / date / foundation / 
+
+Question: When was Laos established ? 
+Selected Key: when / established / 
+
+Question: When did the movie `` Magic in the moonlight '' release ? 
+Selected Key: when / 
+
+Question: When is the release date of `` Magic in the moonlight '' ? 
+Selected Key: when / date / release / date / release / 
+
+Question: When did the movie `` Magic in the moonlight '' come out ? 
+Selected Key: when / movie / come / movie / 
+
+Question: When did the movie `` Magic in the moonlight '' start ? 
+Selected Key: when / movie / start / movie / 
+
+Question: Who is the director of `` Magic in the moonlight '' ? 
+Selected Key: who / director / 
+
+Question: Who directed `` Magic in the moonlight '' ? 
+Selected Key: who / directed / 
+
+Question: Do you know who directed `` Magic in the moonlight '' ? 
+Selected Key: directed / 
+
+Question: Who made the movie `` Magic in the moonlight '' ? 
+Selected Key: who / made / 
+
+Question: Who acted in `` Magic in the moonlight '' ? 
+Selected Key: who / acted / 
+
+Question: Who performed in `` Magic in the moonlight '' ? 
+Selected Key: who / performed / 
+
+Question: Who played a role in `` Magic in the moonlight '' ? 
+Selected Key: who / played / role / 
+
+Question: Who appeared on `` Magic in the moonlight '' ? 
+Selected Key: who / appeared / 
+
+Question: What are genres of `` Magic in the moonlight '' ? 
+Selected Key: what / genres / 
+
+Question: What genres do `` Magic in the moonlight '' fall into ? 
+Selected Key: what / fall / genres / 
+
+Question: What kind of movie is `` Magic in the moonlight '' ? 
+Selected Key: what / kind / movie / 
+
+Question: How can we categorize `` Magic in the moonlight '' by genres ? 
+Selected Key: how / categorize / by / genres / 
+
+Question: Who is an executive producer of `` Magic in the moonlight '' ? 
+Selected Key: who / producer / executive / 
+
+Question: Who executive produced `` Magic in the moonlight '' ? 
+Selected Key: who / executive / produced / executive / 
+
+Question: Do you know an executive producer of `` Magic in the moonlight '' ? 
+Selected Key: producer / executive / 
+
+Question: Do you know who executive produced `` Magic in the moonlight '' ? 
+Selected Key: who / executive / 
+
+Question: Who produced `` Magic in the moonlight '' ? 
+Selected Key: who / produced / 
+
+Question: Who are the producers of `` Magic in the moonlight '' ? 
+Selected Key: who / producers / 
+
+Question: Who are the people that produced `` Magic in the moonlight '' ? 
+Selected Key: who / people / 
+
+Question: Who are the `` Magic in the moonlight '' 's producers ? 
+Selected Key: who / 
+
+Question: Who wrote the screenplay of `` Magic in the moonlight '' ? 
+Selected Key: who / wrote / screenplay / 
+
+Question: Who wrote the script of `` Magic in the moonlight '' ? 
+Selected Key: who / wrote / script / 
+
+Question: Who wrote the `` Magic in the moonlight '' ? 
+Selected Key: who / wrote / 
+
+Question: who is the screen writer of `` Magic in the moonlight '' ? 
+Selected Key: who / writer / screen / 
+
+Question: Who designed costume of `` Magic in the moonlight '' ? 
+Selected Key: who / designed / costume / 
+
+Question: Who is the costume designer of `` Magic in the moonlight '' ? 
+Selected Key: who / designer / costume / 
+
+Question: Who designed outfit of `` Magic in the moonlight '' ? 
+Selected Key: who / designed / outfit / 
+
+Question: Do you know who the costume designer of `` Magic in the moonlight '' is ? 
+Selected Key: who / designer / costume / 
+
+Question: What is the rating of `` Magic in the moonlight '' ? 
+Selected Key: what / rating / 
+
+Question: How does the rating of `` Magic in the moonlight '' ? 
+Selected Key: how / rating / 
+
+Question: What is `` Magic in the moonlight '' 's rating ? 
+Selected Key: what / rating / 
+
+Question: Do you know the rating of `` Magic in the moonlight '' ? 
+Selected Key: rating / 
+
+Question: Which country is origin of `` Magic in the moonlight '' ? 
+Selected Key: which / country / origin / 
+
+Question: Where is `` Magic in the moonlight '' 's Country of origin ? 
+Selected Key: where / country / origin / country / origin / 
+
+Question: What is the country where `` Magic in the moonlight '' origins . 
+Selected Key: what / country / 
+
+Question: What is Country of origin of `` Magic in the moonlight '' ? 
+Selected Key: what / country / origin / 
+
+Question: What is the trailer of `` Magic in the moonlight '' ? 
+Selected Key: what / trailer / 
+
+Question: What is `` Magic in the moonlight '' 's trailer ? 
+Selected Key: what / trailer / 
+
+Question: What is the teaser movie of `` Magic in the moonlight '' ? 
+Selected Key: what / movie / teaser / 
+
+Question: What is the url of `` Magic in the moonlight '' trailer ? 
+Selected Key: what / url / 
+
+Question: What is official website of Yonsei University ? 
+Selected Key: what / website / official / 
+
+Question: What is official URL of Yonsei University ? 
+Selected Key: what / url / official / 
+
+Question: Where is official website of Yonsei University ? 
+Selected Key: where / website / official / official / website / official / 
+
+Question: What is the Yonsei University 's website ? 
+Selected Key: what / website / 
+
+Question: What is school type of Yonsei University ? 
+Selected Key: what / type / school / 
+
+Question: Which is school type of Yonsei University ? 
+Selected Key: which / type / school / 
+
+Question: Which school type of Yonsei University is ? 
+Selected Key: which / type / school / 
+
+Question: Do you know school type of Yonsei University ? 
+Selected Key: type / school / 
+
+Question: What is the phone number of Yonsei University ? 
+Selected Key: what / number / phone / 
+
+Question: What is Yonsei University 's phone number ? 
+Selected Key: what / number / phone / 
+
+Question: What is the phone number for Yonsei University ? 
+Selected Key: what / number / phone / 
+
+Question: Do you have Yonsei University 's phone number ? 
+Selected Key: number / phone / 
+
+Question: How many total enrollments does Yonsei University have ? 
+Selected Key: how / have / enrollments / 
+
+Question: How many people enroll Yonsei University ? 
+Selected Key: how / people / enroll / people / 
+
+Question: What is the present enrollment of Yonsei University ? 
+Selected Key: what / enrollment / present / 
+
+Question: Do you know total enrollment of Yonsei University ? 
+Selected Key: enrollment / total / 
+
+Question: What is the color of Yonsei University ? 
+Selected Key: what / color / 
+
+Question: What color represents Yonsei University ? 
+Selected Key: what / color / color / 
+
+Question: What is the color that represents Yonsei University ? 
+Selected Key: what / color / that / represents / 
+
+Question: What is color for Yonsei University ? 
+Selected Key: what / color / 
+
+Question: What is mascot of Yonsei University ? 
+Selected Key: what / mascot / 
+
+Question: What is Yonsei University 's mascot ? 
+Selected Key: what / mascot / 
+
+Question: Which mascot does Yonsei University uses ? 
+Selected Key: which / uses / mascot / 
+
+Question: Do you know the mascot for Yonsei University ? 
+Selected Key: mascot / 
+
+Question: Who founded Yonsei University ? 
+Selected Key: who / founded / 
+
+Question: Who are the Founders of Yonsei University ? 
+Selected Key: who / founders / 
+
+Question: Who is the person that founded Yonsei University ? 
+Selected Key: who / person / 
+
+Question: Do you know who founded Yonsei University ? 
+Selected Key: 
+
+Question: Who is the leadership of Yonsei University ? 
+Selected Key: who / leadership / 
+
+Question: Who is the president of Yonsei University ? 
+Selected Key: who / president / 
+
+Question: Who is in charge of Yonsei University 's President ? 
+Selected Key: who / is / charge / 
+
+Question: Who is in charge of Yonsei University 's leadership ? 
+Selected Key: who / is / charge / leadership / 
+
+Question: How much is the tuition of Yonsei University ? 
+Selected Key: how / is / tuition / 
+
+Question: What is the tuition of Yonsei University ? 
+Selected Key: what / tuition / 
+
+Question: How much is Yonsei University 's tuition fee ? 
+Selected Key: how / is / fee / 
+
+Question: Do you know domestic tuition of Yonsei University ? 
+Selected Key: tuition / domestic / 
+
+Question: Where is Yonsei University Contained by ? 
+Selected Key: where / contained / 
+
+Question: Where is Yonsei University ? 
+Selected Key: where / 
+
+Question: Where is Yonsei University located ? 
+Selected Key: where / located / 
+
+Question: Which country is Yonsei University Contained by ? 
+Selected Key: which / contained / country / 
+
+Question: What is the movie about New York Yankees ? 
+Selected Key: what / movie / 
+
+Question: What is the film on New York Yankees ? 
+Selected Key: what / film / 
+
+Question: Which movie is about New York Yankees ? 
+Selected Key: which / movie / 
+
+Question: What movie does New York Yankees appear ? 
+Selected Key: what / appear / movie / 
+
+Question: Who is supplier of New York Yankees ? 
+Selected Key: who / supplier / 
+
+Question: Who supplies New York Yankees ? 
+Selected Key: who / supplies / 
+
+Question: Which corporation is supplier of New York Yankees ? 
+Selected Key: which / corporation / supplier / 
+
+Question: Who funded New York Yankees ? 
+Selected Key: who / funded / 
+
+Question: What kind of sport does New York Yankees play ? 
+Selected Key: what / play / kind / sport / 
+
+Question: What is the sport that New York Yankees plays ? 
+Selected Key: what / sport / 
+
+Question: Which sport does New York Yankees play ? 
+Selected Key: which / play / sport / 
+
+Question: Which sport is New York Yankees ? 
+Selected Key: which / sport / 
+
+Question: Where is the Sports Team location of New York Yankees ? 
+Selected Key: where / location / location / 
+
+Question: Where is New York Yankees ' location ? 
+Selected Key: where / location / location / 
+
+Question: Where is New York Yankees located ? 
+Selected Key: where / located / 
+
+Question: Do you know where the New York Yankees is located ? 
+Selected Key: where / located / 
+
+Question: When was New York Yankees founded ? 
+Selected Key: when / founded / 
+
+Question: What year is New York Yankees founded ? 
+Selected Key: what / founded / year / 
+
+Question: What is the year of foundation of New York Yankees ? 
+Selected Key: what / year / foundation / 
+
+Question: When was New York Yankees established ? 
+Selected Key: when / established / 
+
+Question: What are the colors of New York Yankees ? 
+Selected Key: what / colors / 
+
+Question: What color represents New York Yankees ? 
+Selected Key: what / color / color / 
+
+Question: What is the color that represents New York Yankees ? 
+Selected Key: what / color / that / represents / 
+
+Question: What is the color for New York Yankees ? 
+Selected Key: what / color / 
+
+Question: What is stadium of New York Yankees ? 
+Selected Key: what / stadium / 
+
+Question: What is arena of New York Yankees ? 
+Selected Key: what / arena / 
+
+Question: What is New York Yankees ' stadium ? 
+Selected Key: what / stadium / 
+
+Question: Which stadium is belong to New York Yankees ? 
+Selected Key: which / belong / stadium / 
+
+Question: Which teams does the New York Yankees own ? 
+Selected Key: which / own / teams / 
+
+Question: Which teams belong to the New York Yankees ? 
+Selected Key: which / belong / teams / 
+
+Question: Which teams are owned by the New York Yankees ? 
+Selected Key: which / teams / owned / teams / 
+
+Question: Which teams does the New York Yankees possess ? 
+Selected Key: which / possess / teams / 
+
+Question: Which league does New York Yankees belong to ? 
+Selected Key: which / belong / league / 
+
+Question: What is New York Yankees ' league ? 
+Selected Key: what / league / 
+
+Question: What is the league New York Yankees belongs to ? 
+Selected Key: what / league / belongs / 
+
+Question: What is the league New York Yankees in ? 
+Selected Key: what / league / 
+
+Question: Who owns New York Yankees ? 
+Selected Key: who / owns / 
+
+Question: Who is the owner of New York Yankees ? 
+Selected Key: who / owner / 
+
+Question: Who is the possessor of New York Yankees ? 
+Selected Key: who / possessor / 
+
+Question: Do you know the owner of New York Yankees ? 
+Selected Key: owner / 
+
+Question: What is official website of New York Yankees ? 
+Selected Key: what / website / official / 
+
+Question: What is official URL of New York Yankees ? 
+Selected Key: what / url / official / 
+
+Question: Where is official website New York Yankees ? 
+Selected Key: where / website / official / official / website / official / 
+
+Question: What is the New York Yankees ' website ? 
+Selected Key: what / website / 
+
