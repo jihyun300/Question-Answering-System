@@ -37,12 +37,18 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
 
 우리는 영화배우 앤드류 가필드, 국가 라오스, 영화 "Magic in the Moonlight", 연세대학교 그리고 스포츠팀 뉴욕 양키즈를 선택하였고, 각 주제마다 정답을 찾을 15개 이상의 속성값을 찾았다. 
 
-또한, 이후 자연어처리 모듈 구현 과정에서 사용할 [질문set](/questions.txt)을 만들었다. 
-> 예를 들어, 앤드류 가필드의 여자친구가 누구인지를 알고싶다면 다음과 같이 여러 형태로 물어볼 수 있다. 이 모든 경우에도 답할 수 있도록 미리 질문set을 만들어놓아 대응할 수 있도록 구현하였다.
-> > "Who is Andrew Garfield's partner?"
-    "Who have been going out with Andrew Garfield?"
-    "Who have been dating Andrew Garfield?"
+또한, 이후 자연어처리 모듈 구현 과정에서 사용할 [질문set](/questions.txt)을 만들었다.
+
+'''
+ 예를 들어, 앤드류 가필드의 여자친구가 누구인지를 알고싶다면 다음과 같이 여러 형태로 물어볼 수 있다. 이 모든 경우에도 답할 수 있도록 미리 질문set을 만들어놓아 대응할 수 있도록 구현하였다.
     
+    "Who is Andrew Garfield's partner?"
+
+    "Who have been going out with Andrew Garfield?"
+    
+    "Who have been dating Andrew Garfield?"
+'''   
+
 ## 2. Implement Natural Language Processing Module
 
 사용자로부터 들어온 자연어 형태의 질문의 의미를 분석하기 위해 단어의 품사를 분석(POS-tagging)하고, 문장내의 개체명을 인식(Named Entity Recognition)하고, 문장 구조를 분석(Parsing)해야 한다.
@@ -62,8 +68,8 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
  - 문장을 이루고 있는 구성 성분으로 분해하고, 그들 사이의 구조적 관계를 분석하여 문장의 구조를 결정한다.
  - 문장 내의 구성 성분 간의 관계를 이용하여 다양한 활용이 가능하다.
  
-<p align="center">
- <img scr="screenshots/stanfordNLP.png"></img>
+ <p align="center">
+   <img src="screenshots/QAoverview.png" width="80%"></img>
 </p>
 
 ## 3. Implement Question Normalization Module
