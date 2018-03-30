@@ -39,11 +39,12 @@ Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베�
 
 또한, 이후 자연어처리 모듈 구현 과정에서 사용할 [질문set](/questions.txt)을 만들었다.
 
-> 예를 들어, 앤드류 가필드의 여자친구가 누구인지를 알고싶다면 다음과 같이 여러 형태로 물어볼 수 있다. 이 모든 경우에도 답할 수 있도록 미리 질문set을 만들어놓아 대응할 수 있도록 구현하였다.
+> 예를 들어, 앤드류 가필드의 생일이 언제인지 알고싶다면 다음과 같이 여러 형태로 물어볼 수 있다. 이 모든 경우에도 답할 수 있도록 미리 질문set을 만들어놓아 대응할 수 있도록 구현하였다.
 >	```
-> Who is Andrew Garfield's partner?
-> Who have been going out with Andrew Garfield?
-> Who have been dating Andrew Garfield?
+> When is Andrew Garfield's birthday?
+> When was Andrew Garfield born? 
+> When did Andrew Garfield give birth?
+> Do you know when Andrew Garfield's birthday is? 
 >	```   
 
 ## 2. Implement Natural Language Processing Module
@@ -93,8 +94,8 @@ Freebase로 날릴 쿼리의 형태는 위 그림과 같다. 쿼리에서 보이
 들어온 질문이 어떤 것을 묻고 있는지를 파악하는 지가 본 프로젝트의 핵심이다. 
 우리는 질문의 핵심이 되는 단어들을 추출해내고, 이 핵심 단어들이 미리 만들어 놓은 keyword 테이블과 가장 많이 겹치는 property를 가져올 것이다.
 ```
-예를 들어, " **When** was Andrew Garfield born?" 이라는 질문이 들어왔을 때, born 단어 정보로는 충분하지 않다. 
-만약 born 단어만 활용한다면, " **Where** was Andrew Garfield born?" 라는 질문이 들어왔을 때와 비교가 불가능하기 때문이다. 
+예를 들어, "When was Andrew Garfield born?" 이라는 질문이 들어왔을 때, born 단어 정보로는 충분하지 않다. 
+만약 born 단어만 활용한다면, "Where was Andrew Garfield born?" 라는 질문이 들어왔을 때와 비교가 불가능하기 때문이다. 
 따라서, 이 경우에는 "When"과 "born"을 핵심 단어로 추출해야만 property인 "date_of_birth"를 얻을 수 있을 것이다.
 ```
 우리는 시작 의문사를 기준으로 case를 나누고, 각각 세부적인 룰을 적용하여 각 문장의 핵심이 되는 단어를 추출하였다. 기본적으로는 단어 간 의존관계 정보를 활용하여 최대한 모든 경우에 대해 대응할 수 있도록 구현하였다. 또한, key가 중복 추출되었다는 것은 그만큼 여러 rule에 적용되어 중요한 단어일 확률이 크다고 판단하여, 이러한 key에는 추가적으로 weight을 주었다.
