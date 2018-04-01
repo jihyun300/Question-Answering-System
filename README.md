@@ -1,6 +1,6 @@
 Question-Answering-System
 ===============
-### Knowledge based QA system using FreeBase, StanfordNLP with 정원태
+### Knowledge based QA system using FreeBase, StanfordNLP
 
 Knowledge based QA system이란 사용자의 질의를 이해하고, 지식베이스 내의 정보를 이용하여 응답을 제시하는 시스템이다.
 
